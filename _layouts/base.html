@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="/assets/css/global.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Kavivanar&family=Yuji+Syuku&display=swap&family=Belleza&display=swap&family=Pirata+One&display=swap" rel="stylesheet">
+
+    {% if page.css %}
+        {% for css in page.css %}
+            <link rel="stylesheet" href="{{ css }}">
+        {% endfor %}
+    {% endif %}
+
+    <title>Hugo Waterfall Portfolio</title>
+
+</head>
+
+<body>
+    <header>
+
+        <nav>
+            <ul class = "navbar_list">
+                <li> <a href="home.html">Home </a> </li>
+                <li> <a href="gallery.html">Gallery </a> </li>
+                <li> <a href="margarette.html">Margarette </a> </li>
+                <li> <a href="wotg.html">Womb of the Gods </a> </li>
+                <!-- <li class="dropdown">
+                    <a href="projects.html">Projects</a>
+                    <ul class="dropdown_content">
+                        <li> <a href="margarette.html">Margarette </a> </li>
+                        <li> <a href="anima.html">Anima (Work in Progress) </a> </li>
+                        <li> <a href="wotg.html">Womb of the Gods (Work in Progress)</a> </li>
+                       
+                    </ul>
+                </li> -->
+                <!-- <li> <a href="#">Character Database </a> </li> -->
+                <li class="icon_wrap"> <a href="profile.html"><img height="100" src="/assets/images/website_images/nav_bar_home.png"></a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <br>
+        {{ content }}
+        <br><br>
+
+    </main>
+    <footer>
+        <b>Domain of Hugo Waterfall</b>
+    </footer>
+</body>
+
+</html>

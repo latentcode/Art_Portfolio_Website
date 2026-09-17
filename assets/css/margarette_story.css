@@ -1,0 +1,93 @@
+html {
+    scroll-behavior: smooth;
+}
+
+main {
+
+    padding-left: 50px;
+    padding-right: 50px;
+    background-image: linear-gradient(rgb(41, 42, 4), rgb(56, 57, 6));
+    max-width: 100%;
+    line-height: 1.0;
+
+}
+
+p {
+    font-family: minion-pro, serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #0b1304;
+
+}
+
+h2 {
+    font-family: minion-pro, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3rem;
+    /* color: #ffffff; */
+    color: #0b1304;
+    text-align: left;
+    margin-bottom: 1.5rem;
+}
+
+h3 {
+    font-family: minion-pro, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5rem;
+    color: #0b1304;
+    text-align: center;
+}
+
+.story-section {
+
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 4rem 1rem;
+
+}
+
+.story-content {
+
+    max-width: 650px;
+    margin: 0 auto;
+    font-size: 1.28rem;
+    line-height: 2rem;
+}
+
+.story-section.present {
+
+    background-color: rgb(168, 181, 138);
+    padding: 2rem;
+    /* border-radius: 5px; */
+
+}
+
+.story-section.present h2 {
+
+    /* color: black; */
+    
+}
+
+.story-section.present p {
+
+    /* color: black; */
+    
+}
+
+.story-section.past {
+
+    background-color: rgb(168, 181, 138);
+
+}
+
+.story-section.past h2 {
+
+}
+
+.story-section.past p {
+
+    margin-bottom: 1.2rem;
+}

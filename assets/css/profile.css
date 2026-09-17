@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(rgb(160, 107, 51), rgb(139, 76, 40));
+}
+
+h2 {
+
+    text-align: left;
+
+}
+
+.link_tag {
+
+    color: white;
+    font-style: italic;
+
+}
+
+.image_stack_left {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.photo_pair {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    padding-bottom: 1rem;
+}
+
+.photo_pair img {
+    /* height: 500px; */
+    width: auto;
+    object-fit: cover;
+}
+
+.center {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    min-height: 100vh;       /* Makes container take full screen height */
+}

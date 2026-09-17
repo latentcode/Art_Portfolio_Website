@@ -1,0 +1,165 @@
+body {
+
+font-size: 22px;
+background-image: url("images/WOTGBackgroundMountain.jpg");
+background-size:cover;
+background-attachment: fixed;
+
+}
+
+.backgroundBody{
+
+background-image: linear-gradient(rgb(131, 72, 106), rgb(86, 38, 66));
+padding: 30px;
+width: fit-content;
+margin: auto;
+border-radius: 20px;
+
+}
+
+.title {
+
+background-color: rgb(235, 202, 94);
+padding: 10px;
+width:fit-content;
+margin: auto;
+text-align: center;
+border-radius: 20px;
+
+}
+
+.plot {
+
+background-color: rgb(235, 202, 94);
+padding: 15px;
+width:700px;
+margin: auto;
+border-radius: 20px;
+
+
+}
+
+.decision {
+
+    text-align: center;    
+    background-color: rgb(235, 202, 94);
+    padding: 20px;
+    margin: auto;
+    width:fit-content;
+    border-radius: 20px;
+
+}
+
+.decision1 {
+
+  text-align: center;
+  background-color: rgb(32, 217, 152);
+  padding: 20px;
+  margin: auto;
+  width:fit-content;
+  border-radius: 20px;
+  color: #e3001b;
+
+}
+
+.choice1 {
+
+text-align: center;    
+
+}
+
+.choice2 {
+
+text-align: center; 
+   
+ }
+
+ .protagonist {
+
+padding: 20px;
+text-align: center;
+
+}
+
+h2 {
+
+text-decoration: underline;
+font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+.play {
+
+top: 25px;
+position: absolute; 
+
+}
+
+.play:hover {
+
+cursor: pointer;
+
+}
+
+.slip {
+
+color: rgb(60, 60, 215);
+
+}
+
+.slip:hover {
+
+cursor: pointer;
+
+}
+
+.mpnm {
+
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color:transparent;
+    background: linear-gradient(270deg,#1e5799,#2ce0bf,#76dd2c,#dba62b,#ff1493,#1e5799);
+    animation:rainbow 150s linear infinite;
+    background-size: 60% 100%;
+    -webkit-background-clip:text;
+    text-align: center;
+
+  }
+
+  @keyframes rainbow {
+    0%{background-position-x:0}
+    to{background-position-x:10240px}
+
+  }
+
+img {
+
+    display: block;
+    margin: auto;
+
+}
+
+#walking {
+
+    position: relative;
+    padding: 20px;
+    
+}
+
+#stepping {
+
+font-size: 22px;
+text-shadow: rgb(104, 136, 255) 4px 0 10px;
+
+}
+
+#walking:hover {
+
+cursor: pointer;
+
+}
+
+#rainbow {
+
+font-size: 30px;
+
+}

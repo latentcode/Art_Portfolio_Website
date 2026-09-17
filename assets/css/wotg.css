@@ -1,0 +1,45 @@
+main {
+    background-image: linear-gradient(rgb(131, 58, 66), rgb(93, 24, 24));
+
+}
+
+h2 {
+    color: #ff8282;
+    font-family: "Pirata One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.banner {
+    position: relative;
+    height: 700px;
+    aspect-ratio: 1924/1454;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner .hover {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 300ms ease-in-out;
+    animation: pulse-glow 4s infinite alternate;
+}
+
+@keyframes pulse-glow {
+    0% {
+        filter: drop-shadow(0px 0px 0px #fe8789);
+    }
+
+    100% {
+        filter: drop-shadow(0px 0px 50px #fe8789);
+    }
+}
+
+.banner:hover .hover {
+  opacity: 1;
+}

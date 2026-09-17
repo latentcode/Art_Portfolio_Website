@@ -1,0 +1,137 @@
+main {
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(56, 57, 6), rgb(71, 84, 10));
+
+}
+
+h2 {
+    font-family: minion-pro, serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: left;
+}
+
+h3 {
+    font-family: minion-pro, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: left;
+}
+
+p {
+font-family: minion-pro, serif;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.banner {
+    position: relative;
+    height: 550px;
+    aspect-ratio: 3858/4649;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner .hover {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 300ms ease-in-out;
+    animation: pulse-glow 4s infinite alternate;
+}
+
+@keyframes pulse-glow {
+    0% {
+        filter: drop-shadow(0px 0px 0px #ccffb4);
+    }
+
+    100% {
+        filter: drop-shadow(0px 0px 10px #ccffb4);
+    }
+}
+
+.banner:hover .hover {
+  opacity: 1;
+}
+
+.image_left:hover {
+    /*animation: pulse-glow 4s infinite alternate;*/
+}
+
+.button_container_center{
+    display: flex; 
+    justify-content: center;
+    margin-top: 15px;
+
+}
+
+.story_button_link {
+    display: block;
+    position: relative;
+    width: 330px;
+    height: 330px;
+    cursor: pointer;
+    text-decoration: none;
+    flex: 0 0 330px;
+}
+
+.button_class_center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 230px;
+    height: 230px; /* Must be a square initially */
+    box-sizing: border-box;
+    background-image: radial-gradient(rgb(255, 255, 255), rgb(218, 218, 218), rgb(175, 175, 175), rgb(108, 108, 108));
+
+    /* Create the eye shape with specific border-radius on two opposite corners */
+    border-radius: 100% 0%; /* Top-left and bottom-right are rounded, other corners are sharp */
+
+    /* Rotate the shape 45 degrees to align the sharp corners horizontally/vertically */
+    transform: translate(-50%, -50%) rotate(45deg);
+
+    /* Optional: Center the text/icon if it appears rotated */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: minion-pro, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.15;
+    text-align: center;
+    padding: 20px; /* Remove default button padding */
+    text-decoration: none; /* Remove underline if using <a> tag */
+    color: rgb(17, 85, 168); /* Color of the icon/text */
+
+    box-shadow: 0 4px 18px rgb(15, 29, 3);
+    pointer-events: none;
+
+    /*transition: border-radius 0.6s ease, background-image 0.8s ease;*/
+
+}
+
+.button_class_center > span {
+    display: inline-block; /* Essential for transforms to work */
+    transform: rotate(-45deg);
+}
+
+.story_button_link:hover .button_class_center,
+.story_button_link:focus-visible .button_class_center{
+    color: #000000;
+    background-image: radial-gradient(rgb(255, 255, 255), rgb(71, 255, 148), rgb(29, 161, 161), rgb(8, 48, 93), rgb(0, 5, 36));
+    border-radius: 50%;
+    /*animation: pulse-glow 4s infinite alternate;*/
+}
+
+a {
+    text-decoration: none;
+
+}

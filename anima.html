@@ -1,0 +1,124 @@
+---
+layout: base
+css: 
+  - /assets/css/anima.css
+---
+
+<script>
+    window.onload = function () {
+
+        const contentContainer = this.document.getElementById("anima_contents");
+        const proceedButton = this.document.getElementById("proceed_button");
+        const reloadButton = this.document.getElementById("reload_button");
+        const banner = this.document.getElementById("banner_hover");
+        const mainElement = document.querySelector("main");
+
+        function revealContent() {
+
+            if (contentContainer && proceedButton && reloadButton && banner) {
+
+                contentContainer.style.display = "block"
+                banner.classList.add("is-active");
+                proceedButton.style.display = "none";
+                reloadButton.style.display = "inline";
+
+            }
+
+            //Setting css variables
+            mainElement.style.setProperty('--bg-color-1', 'rgb(27, 35, 72)');
+            mainElement.style.setProperty('--bg-color-2', 'rgb(5, 5, 20)');
+
+        }
+
+        if (localStorage.getItem("anima_hasProceeded") === "true") {
+
+            revealContent();
+
+        }
+
+        if (proceedButton) {
+
+            proceedButton.addEventListener("click", () => {
+
+                localStorage.setItem("anima_hasProceeded", "true");
+                revealContent();
+
+            });
+
+        }
+
+        if (reloadButton) {
+
+            reloadButton.addEventListener("click", () => {
+
+                localStorage.removeItem("anima_hasProceeded");
+                window.location.reload();
+
+            });
+
+        }
+        
+    }
+    
+</script>
+
+<h2>! This page is a work in progress !</h2>
+<br>
+
+<div class="image_description">
+    <div class="banner_hover" id ="banner_hover">
+        <img height="500" src="/assets/images/anima_images/anima_banner_v1.png">
+        <img height="500" src="/assets/images/anima_images/anima_banner_v2.png" class="hover">
+    </div>
+</div>
+
+<div class = "button_container_center">
+    <button class = "button_class_center" id = "proceed_button">Proceed</button>
+</div>
+
+<div class = "button_container_left">
+    <button class = "button_class_left" id = "reload_button">Reset Page</button>
+</div>
+<div id="anima_contents">
+    <p>table of contents (overview, lore, misc art)</p>
+
+    <br>
+    <h1>Anima</h1>
+    <h2>(Noun): the soul, especially the irrational part of the soul as distinguished from the rational mind.</h2>
+    <br>
+    <div class="image_description">
+        <div class="description_center">
+            <h2>An Overview</h2>
+            <p>Anima explores the nature of our nightmares - the parts of our souls kept hidden from the light. But what if they were to claw their way out?
+            This horror-fantasy story follows a young waitress named Sarah who must fend off her worst fears and greatest insecurities - which have manifested as horrendous monsters. 
+            Teaming up with her estranged sister Valerie and a handful of other survivors, she and her allies must help each other face their (not-so) inner demons to root out the evil that has descended upon their town. 
+            Only through unity can they take down the unknowable entity that terrorizes their community.</p>
+        </div>
+    </div>
+
+
+    <br>
+    <div class="image_description">
+        <div class="image_description_lr">
+            <img height="700" src="/assets/images/anima_images/anima_poster.png" class="image_left">
+            <div class="description_right">
+                <h2>Poster</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+            </div>
+        </div>
+    </div>
+
+
+    <br>
+    <div class="image_description">
+        <h2>The Photograph</h2>
+        <div class="sar_val_photo_hover">
+            <img height="500" src="/assets/images/anima_images/sar_val_photo_v1.png">
+            <img height="500" src="/assets/images/anima_images/sar_val_photo_v2.png" class="hover">
+        </div>
+
+        <div class="description_center">
+            <p>When Valerie arrives at Sarah's door, she bears nothing but a single item: a photograph of the two of them. But as Sarah soon realizes, the picture in her sister's hand was never taken. How could Valerie be holding something that shouldn't exist, and why would she show up now after so many years apart?</p>
+        </div>
+    </div>
+</div>

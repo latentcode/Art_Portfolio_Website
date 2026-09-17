@@ -1,0 +1,95 @@
+body {
+
+font-size: 22px;
+background-image: url("images/WOTGBackgroundPalace.jpeg");
+background-size:cover;
+background-attachment: fixed
+;
+
+}
+
+.backgroundBody{
+
+background-image: linear-gradient(rgb(131, 72, 106), rgb(86, 38, 66));
+padding: 30px;
+width: fit-content;
+margin: auto;
+border-radius: 20px;
+
+}
+
+.title {
+
+background-color: rgb(235, 202, 94);
+padding: 10px;
+width:fit-content;
+margin: auto;
+text-align: center;
+border-radius: 20px;
+
+}
+
+.plot {
+
+background-color: rgb(235, 202, 94);
+padding: 15px;
+width:700px;
+margin: auto;
+border-radius: 20px;
+
+
+}
+
+.decision {
+
+    text-align: center;    
+    background-color: rgb(235, 202, 94);
+    padding: 20px;
+    margin: auto;
+    width:fit-content;
+    border-radius: 20px;
+
+}
+
+.choice1 {
+
+text-align: center;    
+
+}
+
+.choice2 {
+
+text-align: center;    
+ }
+
+ .protagonist {
+
+padding: 20px;
+text-align: center;
+}
+
+h2 {
+
+text-decoration: underline;
+font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+.play {
+
+    top: 25px;
+    position: absolute; 
+    
+    }
+    
+    .play:hover {
+    
+    cursor: pointer;
+    
+    }
+
+    #scary {
+
+font-family:cursive ;
+
+    }

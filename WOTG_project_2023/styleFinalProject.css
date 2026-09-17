@@ -1,0 +1,56 @@
+body {
+
+    font-size: 22px;
+    background-image: url("images/WOTGBackgroundMountain.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.name{
+
+    color: aliceblue;
+    font-size: 20px;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.introduction {
+
+background-color: beige;
+padding: 30px;
+width: 600px;
+margin: auto;
+text-align: center;
+
+}
+
+.aboveTitle {
+
+padding-left: 50px;
+color: rgb(75, 47, 47);
+
+
+}
+
+.title {
+
+color: rgb(77, 0, 209);
+text-shadow: rgb(107, 255, 248) 1px 0 10px;
+text-align: center;
+
+}
+
+.portal{
+
+    text-align: center;
+
+}
+
+h4 {
+
+    color: rgb(38, 255, 0);
+    text-shadow: rgb(0, 0, 0) 4px 0 10px;
+
+}
