@@ -1,42 +1,11 @@
-body {
-    background-image: linear-gradient(rgb(160, 107, 51), rgb(139, 76, 40));
-}
-
-h2 {
-
-    text-align: left;
-
-}
-
-.link_tag {
-
-    color: white;
-    font-style: italic;
-
-}
-
-.image_stack_left {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.photo_pair {
-    display: flex;
-    gap: 10px;
-    align-items: flex-start;
-    padding-bottom: 1rem;
-}
-
-.photo_pair img {
-    /* height: 500px; */
-    width: auto;
-    object-fit: cover;
-}
-
-.center {
-    display: flex;
-    justify-content: center; /* Centers horizontally */
-    align-items: center;     /* Centers vertically */
-    min-height: 100vh;       /* Makes container take full screen height */
-}
+.profile-page main{background:linear-gradient(140deg,#201915,#171310)}
+.profile_layout{display:grid;grid-template-columns:minmax(280px,.8fr) minmax(420px,1.2fr);align-items:start;gap:clamp(44px,8vw,110px);max-width:1180px;margin:auto}
+.profile_portrait{position:sticky;top:116px}
+.profile_portrait img{display:block;width:100%;height:auto;border-radius:3px;box-shadow:0 28px 70px rgba(0,0,0,.36)}
+.profile_copy .eyebrow{margin-bottom:12px;color:var(--copper-light);font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase}
+.profile_copy h1{text-align:left}
+.profile_bio{margin-top:36px;color:#ded5cf}
+.profile_bio p{max-width:67ch;margin-top:20px}
+.resource_links{display:flex;flex-wrap:wrap;gap:10px;margin-top:32px}
+.resource_links a{padding:9px 14px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.025);font-size:13px;font-weight:600;text-decoration:none}
+@media(max-width:820px){.profile_layout{grid-template-columns:1fr}.profile_portrait{position:static;width:min(100%,520px)}}

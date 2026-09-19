@@ -1,5 +1,6 @@
 ---
 layout: base
+body_class: gallery-page
 css: 
   - /assets/css/gallery.css
 ---
@@ -7,13 +8,15 @@ css:
 <h1>Project Gallery</h1>
 <br>
 <h2>Gallery Information</h2>
-<p> &ensp;&ensp;• &ensp;&ensp;&ensp;Project titles with the symbol "🖱️" indicate that they are interactive pieces. Please click on the image or the project link to find out more.</p>
-<p> &ensp;&ensp;• &ensp;&ensp;&ensp;For consistency, the project dates indicate when I <i>began</i> working on a specific piece, not when I last updated it.</p>
+<ul class="gallery_notes">
+    <li>Project titles with the symbol "🖱️" indicate that they are interactive pieces. Please click on the image or the project link to find out more.</li>
+    <li>For consistency, the project dates indicate when I <i>began</i> working on a specific piece, not when I last updated it.</li>
+</ul>
 
 <br>
 <br>
 
-<p>_______________________________________________________________________________________________________________</p>
+<hr class="gallery_rule">
 
 <br>
 <br>
@@ -60,7 +63,7 @@ css:
         allowfullscreen>
     </iframe>
 </div>
-  <p>Set in a virtual recreation of our 3D Digital Production classroom, Andre Neder and I made this project to simulate reality within Blender, then leverage Blender's physics engine to highlight how the simulation differs from real life and takes on a reality of its own. We aimed to expose reality as a fragile construct that is ultimately overtaken by the logic of its own digital representation. Our full report is found <a class="link_tag" href="https://docs.google.com/document/d/1QoJ1TVXJ5OJAsRBS9xQ5TKwFb-4PM16i-L9eqSMPJ-4/edit?usp=sharing" target="_blank">here</a>.</p>
+  <p>Set in a virtual recreation of our 3D Digital Production classroom, Andre Neder and I made this project to simulate reality within Blender, then leverage Blender's physics engine to highlight how the simulation differs from real life and takes on a reality of its own. We aimed to expose reality as a fragile construct that is ultimately overtaken by the logic of its own digital representation. Read the <a class="link_tag" href="https://docs.google.com/document/d/1QoJ1TVXJ5OJAsRBS9xQ5TKwFb-4PM16i-L9eqSMPJ-4/edit?usp=sharing" target="_blank">final report</a>.</p>
 
 <br>
 <br>
@@ -84,7 +87,7 @@ css:
         <h2>Successive Adaptation</h2>
         <p><i>February 2026 · Blender / Photoshop · CART 362 </i></p>
         <br>
-        <p>My 3-part Blender project tells the story of nature, as represented by a solitary dog, being engulfed by the tides of human industry, before emerging again, free but clearly tainted. Here, nature is depicted with respect to its own corruption, where the oil and the animal are defined by one another, intertwined in this process of biological succession. My full report is found <a class="link_tag" href="https://docs.google.com/document/d/1P8KuQ4taI-G9MLqDlEIE9BJZ6TjViTN9CZ5TLpEqQ-4/edit?usp=sharing" target="_blank">here</a>.</p>
+        <p>My 3-part Blender project tells the story of nature, as represented by a solitary dog, being engulfed by the tides of human industry, before emerging again, free but clearly tainted. Here, nature is depicted with respect to its own corruption, where the oil and the animal are defined by one another, intertwined in this process of biological succession. Read the <a class="link_tag" href="https://docs.google.com/document/d/1P8KuQ4taI-G9MLqDlEIE9BJZ6TjViTN9CZ5TLpEqQ-4/edit?usp=sharing" target="_blank">final report</a>.</p>
     </div>
 </div>
 
@@ -109,35 +112,32 @@ css:
     <img height="670" src="/assets/images/gallery_images/poster_margarette.png" class="image_left">
     </a>
     <div class="description_right">
-        <h2>Margarette 🖱️</h2>
+        <h2><a class="interactive_title" href="margarette.html">Margarette 🖱️</a></h2>
         <p><i>January 2026 · Photoshop · <a class="link_tag" href="margarette.html" target="_blank">Margarette</a> </i></p>
         <br>
-        <p>A poster depicting Margarette and her wicked husband John in the presence of a disturbingly comforting companion. This piece was created to accompany an original short story that can be accessed <a class="link_tag" href="margarette.html" target="_blank">here</a>.</p>
+        <p>A poster depicting Margarette and her wicked husband John in the presence of a disturbingly comforting companion. This piece was created to accompany an <a class="link_tag" href="margarette.html">original short story</a>.</p>
     </div>
 </div>
 
 <br>
 <br>
 
-<h2>Journal: Mood Analyzer 🖱️</h2>
+<h2><a class="interactive_title" href="https://journalmoodanalyzer.vercel.app/" target="_blank" rel="noreferrer">Journal: Mood Analyzer 🖱️</a></h2>
 <p><i>December 2025 · Visual Studio Code · CART 351 </i></p>
 <br>
 <a class="link_tag" href="https://journalmoodanalyzer.vercel.app/" target="_blank"> 
     <img height="300" src="/assets/images/gallery_images/compsci_journal.png" class="image_left">
 </a>
 <p>An interactive website developed by Andre Neder, Owen Hill, and I that allows users to publicly publish journal entries, which are then processed by a high-tech artificial intelligence that determines each entry's sentimentality. These entries are then displayed graphically as a collective to show their sentimentally color ratings. 
-    <br>
-    <br>
-    The website is hosted here: <a class="link_tag" href="https://journalmoodanalyzer.vercel.app/" target="_blank">https://journalmoodanalyzer.vercel.app/</a>. 
-    <br>
-    Our report is found <a class="link_tag" href="https://docs.google.com/document/d/1crKTpEcQPwL3O0oF97HuX2qKxN3PZnDRXJWacT2Yuzk/edit?usp=sharing" target="_blank">here</a>.
-    <br>
-    The Github repository is found <a class="link_tag" href="https://github.com/dreneder/cart-351-project_3" target="_blank">here</a>.
+
 </p>
+<div class="resource_links">
+<a href="https://journalmoodanalyzer.vercel.app/" target="_blank">Website</a>
+<a href="https://docs.google.com/document/d/1crKTpEcQPwL3O0oF97HuX2qKxN3PZnDRXJWacT2Yuzk/edit?usp=sharing" target="_blank">Final Report</a>
+<a href="https://github.com/dreneder/cart-351-project_3" target="_blank">GitHub</a>
+</div>
 
-<br>
-<br>
-
+<br><br>
 <h2>The Photograph</h2>
 <p><i>December 2025 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p>
 <br>
@@ -162,7 +162,7 @@ css:
         allowfullscreen>
     </iframe>
 </div>
-  <p>Meant to be played on a loop, this Blender project depicts the inevitability of war and the repetition of history. In accordance with the symbol of Ouroboros, these events reflect how society’s actions often end up undoing the progress it has made. In this animation, as we follow the character through the ages, humanity’s innate lust for conflict always drags the world back to the Stone Age, cementing its legacy as one big tragic cycle. My full report is found <a class="link_tag" href="https://docs.google.com/document/d/1X8eg4UdFVEtJUOYKW7iR36xhclCM1JepSlq_zH3Hhak/edit?usp=sharing" target="_blank">here</a>.</p>
+  <p>Meant to be played on a loop, this Blender project depicts the inevitability of war and the repetition of history. In accordance with the symbol of Ouroboros, these events reflect how society’s actions often end up undoing the progress it has made. In this animation, as we follow the character through the ages, humanity’s innate lust for conflict always drags the world back to the Stone Age, cementing its legacy as one big tragic cycle. Read the <a class="link_tag" href="https://docs.google.com/document/d/1X8eg4UdFVEtJUOYKW7iR36xhclCM1JepSlq_zH3Hhak/edit?usp=sharing" target="_blank">final report</a>.</p>
 
 <br>
 <br>
@@ -182,7 +182,7 @@ css:
 <br>
 <br>
 
-<h2>Flaskemy Feud! 🖱️</h2>
+<h2><a class="interactive_title" href="https://flaskemyfeud.vercel.app/" target="_blank" rel="noreferrer">Flaskemy Feud! 🖱️</a></h2>
 <p><i>November 2025 · Visual Studio Code · CART 351 </i></p>
 <br>
 <a class="link_tag" href="https://flaskemyfeud.vercel.app/" target="_blank"> 
@@ -190,18 +190,15 @@ css:
 </a>
 
 <p>An interactive website developed by Andre Neder and I that allows users to interact with a simplified version of the gameshow <i>Family Feud</i> (1976). Users have the option to compete in the gameshow, in which they try to guess the most submitted answers to a series of questions, or submit answers to a survey that directly feeds into subsequent gameshows. Although the website has only a few questions, it is highly flexible and can be easily modified to cover any topic.
-    <br>
-    <br>
-    The website is hosted here: <a class="link_tag" href="https://flaskemyfeud.vercel.app/" target="_blank">https://flaskemyfeud.vercel.app/</a>. 
-    <br>
-    Our report is found <a class="link_tag" href="https://docs.google.com/document/d/1EgPUP0vyIolGIWxnC3a6aWLh7NucYaGZED3g-nxBgFo/edit?usp=sharing" target="_blank">here</a>.
-    <br>
-    The Github repository is found <a class="link_tag" href="https://github.com/dreneder/cart-351-project_2" target="_blank">here</a>.
+
 </p>
+<div class="resource_links">
+<a href="https://flaskemyfeud.vercel.app/" target="_blank">Website</a>
+<a href="https://docs.google.com/document/d/1EgPUP0vyIolGIWxnC3a6aWLh7NucYaGZED3g-nxBgFo/edit?usp=sharing" target="_blank">Final Report</a>
+<a href="https://github.com/dreneder/cart-351-project_2" target="_blank">GitHub</a>
+</div>
 
-<br>
-<br>
-
+<br><br>
 <h2>Anima Banner</h2>
 <p><i>October 2025 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p>
 <br>
@@ -222,7 +219,7 @@ css:
     <img src="/assets/images/gallery_images/3D_blenderGlasses2.2.png">
     <img src="/assets/images/gallery_images/3D_blenderGlasses2.3.png">
 </div>
-<p>These digital 3D sculptures are designed to address the falsehoods commonly spread by artificial intelligence, embodying a prison of AI misinformation apparent in the Ray-Ban Meta glasses. This is also my first complete Blender project. My full report is found <a class="link_tag" href="https://docs.google.com/document/d/100Mxcs4oHVHozKAR6fDJOK97wfll2K1aVo8roqFYFns/edit?usp=sharing" target="_blank">here</a>.</p>
+<p>These digital 3D sculptures are designed to address the falsehoods commonly spread by artificial intelligence, embodying a prison of AI misinformation apparent in the Ray-Ban Meta glasses. This is also my first complete Blender project. Read the <a class="link_tag" href="https://docs.google.com/document/d/100Mxcs4oHVHozKAR6fDJOK97wfll2K1aVo8roqFYFns/edit?usp=sharing" target="_blank">final report</a>.</p>
 
 <br>
 <br>
@@ -346,21 +343,18 @@ css:
 <br>
 <br>
 
-<h2>Womb of the Gods (Game Prototype) 🖱️</h2>
+<h2><a class="interactive_title" href="/WOTG_project_2023/WOTG_Home_Page.html" target="_blank">Womb of the Gods (Game Prototype) 🖱️</a></h2>
 <p><i>November 2023 · Visual Studio Code / Photoshop · <a class="link_tag" href="wotg.html" target="_blank">Womb of the Gods</a> / CART 211 </i></p>
 <br>
 <a class="link_tag" href="/WOTG_project_2023/WOTG_Home_Page.html" target="_blank"> 
     <img height="600" src="/assets/images/gallery_images/poster_wotg_2023.png" class="image_left">
 </a>
 <p>A choose-your-own-adventure role-playing game made to study the basics of web development. I planned, structured, and wrote a branching narrative around some of my existing art, created original artworks to suit certain narrative plot points, then included instrumental music from some of my favorite media to accompany the story. The goal of the game is to experience all nine endings.
-    <br>
-    <br>
-    The adventure can be accessed <a class="link_tag" href="/WOTG_project_2023/WOTG_Home_Page.html" target="_blank">here</a>. 
+
 </p>
+<div class="resource_links"><a href="/WOTG_project_2023/WOTG_Home_Page.html" target="_blank">Play Prototype</a></div>
 
-<br>
-<br>
-
+<br><br>
 <div class="image_description_lr">
     <img height="640" src="/assets/images/gallery_images/portrait_sarah_headburster.png" class="image_left">
     <div class="description_right">
