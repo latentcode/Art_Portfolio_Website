@@ -23,7 +23,7 @@ css:
 <br>
 
  <div class="image_description_lr">
-    <img height="580" src="/assets/images/gallery_images/portrait_v.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_v.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="eager" class="image_left" fetchpriority="high" %}
     <div class="description_right">
         <h2>Portrait of V</h2>
         <p><i>July 2026 · Photoshop </i></p>
@@ -37,8 +37,8 @@ css:
 
 <div class="image_description_lr">
     <div class="image_stack_left">
-        <img height="500" src="/assets/images/gallery_images/portrait_nezmahil.png" class="image_left">
-        <img height="500" src="/assets/images/gallery_images/portrait_sylvie.png" class="image_left">
+        {% include responsive-image.html src="/assets/images/gallery_images/portrait_nezmahil.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
+        {% include responsive-image.html src="/assets/images/gallery_images/portrait_sylvie.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     </div>
     <div class="description_right">
         <h2>Vessels of Ascension</h2>
@@ -71,7 +71,7 @@ css:
 <h2>Womb of the Gods Character Lineup</h2>
 <p><i>February 2026 · Photoshop · <a class="link_tag" href="wotg.html" target="_blank">Womb of the Gods</a> </i></p>
 <br>
-<img height="600" src="/assets/images/gallery_images/concept_wotg_characters.png" class="image_left">
+{% include responsive-image.html src="/assets/images/gallery_images/concept_wotg_characters.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 1100px" loading="lazy" class="image_left" %}
 <p>Concept art of the six most prominent characters in the <i>Womb of the Gods</i>, experimenting with facial expressions, outfits, and relative character sizes. The individuals shown, from left to right, are Jez Kilnan, Sylvie Talax, Nezmahil Ikram, Ra'hin Abdul, Estrella, and Fiona Delafor.</p>
 
 <br>
@@ -79,9 +79,9 @@ css:
 
 <div class="image_description_lr">
     <div class="image_stack_left">
-        <img height="340" src="/assets/images/gallery_images/3D_corruption_bust_1.png" class="image_left">
-        <img height="340" src="/assets/images/gallery_images/3D_corruption_bust_2.png" class="image_left">
-        <img height="340" src="/assets/images/gallery_images/3D_corruption_bust_3.png" class="image_left">
+        {% include responsive-image.html src="/assets/images/gallery_images/3D_corruption_bust_1.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" class="image_left" %}
+        {% include responsive-image.html src="/assets/images/gallery_images/3D_corruption_bust_2.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" class="image_left" %}
+        {% include responsive-image.html src="/assets/images/gallery_images/3D_corruption_bust_3.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" class="image_left" %}
     </div>
     <div class="description_right">
         <h2>Successive Adaptation</h2>
@@ -95,7 +95,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="500" src="/assets/images/gallery_images/portrait_birth.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_birth.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Birth</h2>
         <p><i>February 2026 · Photoshop </i></p>
@@ -109,7 +109,7 @@ css:
 
 <div class="image_description_lr">
     <a class="link_tag" href="margarette.html" target="_blank"> 
-    <img height="670" src="/assets/images/gallery_images/poster_margarette.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_margarette.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     </a>
     <div class="description_right">
         <h2><a class="interactive_title" href="margarette.html">Margarette 🖱️</a></h2>
@@ -126,7 +126,7 @@ css:
 <p><i>December 2025 · Visual Studio Code · CART 351 </i></p>
 <br>
 <a class="link_tag" href="https://journalmoodanalyzer.vercel.app/" target="_blank"> 
-    <img height="300" src="/assets/images/gallery_images/compsci_journal.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/compsci_journal.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 1100px" loading="lazy" class="image_left" %}
 </a>
 <p>An interactive website developed by André Neder, Owen Hill, and I that allows users to publicly publish journal entries, which are then processed by a high-tech artificial intelligence that determines each entry's sentimentality. These entries are then displayed graphically as a collective to show their sentimentally color ratings. 
 
@@ -142,8 +142,8 @@ css:
 <p><i>December 2025 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p>
 <br>
 <div class="photo_pair">
-    <img height="500" src="/assets/images/gallery_images/portrait_sarah_valerie_1.png" class="image_left">
-    <img height="500" src="/assets/images/gallery_images/portrait_sarah_valerie_2.png">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_sarah_valerie_1.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_sarah_valerie_2.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" %}
 </div>
 <p>A photograph of estranged sisters Sarah and Valerie - one that was never taken. Soon after Valerie shows up at Sarah's doors with this picture in her hand, their respective realities begin to collapse.</p>
 
@@ -169,7 +169,7 @@ css:
 
 <div class="image_description_lr">
     <a class="link_tag" href="wotg.html" target="_blank"> 
-    <img height="580" src="/assets/images/gallery_images/portrait_khaspur.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_khaspur.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     </a>
     <div class="description_right">
         <h2>Portrait of a Tiefling</h2>
@@ -202,7 +202,7 @@ css:
 <h2>Anima Banner</h2>
 <p><i>October 2025 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p>
 <br>
-<img height="500" src="/assets/images/gallery_images/banner_anima.png" class="image_left">
+{% include responsive-image.html src="/assets/images/gallery_images/banner_anima.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 1100px" loading="lazy" class="image_left" %}
 <p>A banner showing estranged sisters Sarah and Valerie, the main characters of <i>Anima</i>, who have reunited at the end of the world.</p>
 
 <br>
@@ -212,12 +212,12 @@ css:
 <p><i>September 2025 · Blender · CART 361 </i></p>
 <br>
 <div class = "gallery">
-    <img src="/assets/images/gallery_images/3D_blenderGlasses1.1.png">
-    <img src="/assets/images/gallery_images/3D_blenderGlasses1.2.png">
-    <img src="/assets/images/gallery_images/3D_blenderGlasses1.3.png">
-    <img src="/assets/images/gallery_images/3D_blenderGlasses2.1.png">
-    <img src="/assets/images/gallery_images/3D_blenderGlasses2.2.png">
-    <img src="/assets/images/gallery_images/3D_blenderGlasses2.3.png">
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_blenderGlasses1.1.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_blenderGlasses1.2.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_blenderGlasses1.3.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_blenderGlasses2.1.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_blenderGlasses2.2.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_blenderGlasses2.3.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
 </div>
 <p>These digital 3D sculptures are designed to address the falsehoods commonly spread by artificial intelligence, embodying a prison of AI misinformation apparent in the Ray-Ban Meta glasses. This is also my first complete Blender project. Read the <a class="link_tag" href="https://docs.google.com/document/d/100Mxcs4oHVHozKAR6fDJOK97wfll2K1aVo8roqFYFns/edit?usp=sharing" target="_blank">final report</a>.</p>
 
@@ -242,7 +242,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="630" src="/assets/images/gallery_images/poster_infographic.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_infographic.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Lifestyle Infographic - Horror Edition</h2>
         <p><i>November 2024 · Photoshop · CART 214 </i></p>
@@ -255,7 +255,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="630" src="/assets/images/gallery_images/poster_gun_control.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_gun_control.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Gun Control: A Magazine Cover Design</h2>
         <p><i>October 2024 · Photoshop · CART 214 </i></p>
@@ -268,7 +268,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="620" src="/assets/images/gallery_images/poster_lighthouse.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_lighthouse.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>The Lighthouse</h2>
         <p><i>September 2024 · Photoshop · CART 214 </i></p> 
@@ -284,8 +284,8 @@ css:
 <p><i>April, June 2024 · Photoshop · <a class="link_tag" href="wotg.html" target="_blank">Womb of the Gods</a> </i></p>
 <br>
 <div class="photo_pair">
-    <img height="550" src="/assets/images/gallery_images/portrait_estrella_hand.png" class="image_left">
-    <img height="550" src="/assets/images/gallery_images/portrait_estrella_space.png">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_estrella_hand.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_estrella_space.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" %}
 </div>
 <p>Two paintings of a drow with draconic bloodline, inspired by the character creation of <i>Baldur's Gate III</i> (2023). These pieces also serve as early concept art for the <i>Womb of the Gods</i> character Estrella, one of the story's later villains.</p>
 
@@ -293,7 +293,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="550" src="/assets/images/gallery_images/portrait_forest_elf.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_forest_elf.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Ustru'aani Hunter & Guardian</h2>
         <p><i>April 2024 · Photoshop · <a class="link_tag" href="wotg.html" target="_blank">Womb of the Gods</a> </i></p>
@@ -306,7 +306,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="650" src="/assets/images/gallery_images/poster_anima.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_anima.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Anima Poster</h2>
         <p><i>March 2024 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p>
@@ -322,8 +322,8 @@ css:
 <p><i>December 2023 · Photoshop </i></p>
 <br>
 <div class="photo_pair">
-    <img height="500" src="/assets/images/gallery_images/poster_moonage_daydream_1.png" class="image_left">
-    <img height="500" src="/assets/images/gallery_images/poster_moonage_daydream_2.png">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_moonage_daydream_1.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_moonage_daydream_2.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" %}
 </div>
 <p>A painting of the poster for <i>Moonage Daydream</i> (2022) - a David Bowie documentary - created as a personal request from my mom.</p>
 
@@ -331,7 +331,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="630" src="/assets/images/gallery_images/portrait_ballerina.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_ballerina.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Portrait of a Ballerina</h2>
         <p><i>December 2023 · Photoshop </i></p>
@@ -347,7 +347,7 @@ css:
 <p><i>November 2023 · Visual Studio Code / Photoshop · <a class="link_tag" href="wotg.html" target="_blank">Womb of the Gods</a> / CART 211 </i></p>
 <br>
 <a class="link_tag" href="/WOTG_project_2023/WOTG_Home_Page.html" target="_blank"> 
-    <img height="600" src="/assets/images/gallery_images/poster_wotg_2023.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_wotg_2023.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 1100px" loading="lazy" class="image_left" %}
 </a>
 <p>A choose-your-own-adventure role-playing game made to study the basics of web development. I planned, structured, and wrote a branching narrative around some of my existing art, created original artworks to suit certain narrative plot points, then included instrumental music from some of my favorite media to accompany the story. The goal of the game is to experience all nine endings.
 
@@ -356,7 +356,7 @@ css:
 
 <br><br>
 <div class="image_description_lr">
-    <img height="640" src="/assets/images/gallery_images/portrait_sarah_headburster.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_sarah_headburster.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Headburster</h2>
         <p><i>September 2023 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p>
@@ -369,7 +369,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="600" src="/assets/images/gallery_images/commission_httyd.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/commission_httyd.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Dragon Character Sheet</h2>
         <p><i>August 2023 · Photoshop · Commission</i></p> 
@@ -382,7 +382,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="640" src="/assets/images/gallery_images/commission_album_cover.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/commission_album_cover.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Violence Unimagined</h2>
         <p><i>July 2023 · Photoshop · Commission</i></p> 
@@ -395,7 +395,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="640" src="/assets/images/gallery_images/poster_fiona_and_friends.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_fiona_and_friends.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Dream Team</h2>
         <p><i>June 2023 · Photoshop · <a class="link_tag" href="wotg.html" target="_blank">Womb of the Gods</a> </i></p> 
@@ -408,7 +408,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="670" src="/assets/images/gallery_images/poster_sarah_and_friends.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/poster_sarah_and_friends.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Imitation is the Sincerest Form of Flattery</h2>
         <p><i>November 2022 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p> 
@@ -422,7 +422,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="600" src="/assets/images/gallery_images/portrait_sylvie_wizard.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_sylvie_wizard.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>What Lurks in the Caverns Beneath our Feet?</h2>
         <p><i>August 2022 · Photoshop · <a class="link_tag" href="wotg.html" target="_blank">Womb of the Gods</a> </i></p> 
@@ -435,7 +435,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="620" src="/assets/images/gallery_images/portrait_sarah_followed.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_sarah_followed.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Dysmorphia</h2>
         <p><i>July 2022 · Photoshop · <a class="link_tag" href="anima.html" target="_blank">Anima</a> </i></p> 
@@ -448,7 +448,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="600" src="/assets/images/gallery_images/commission_pride_cat.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/commission_pride_cat.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Happy Pride!</h2>
         <p><i>June 2022 · Photoshop · Commission</i></p> 
@@ -464,12 +464,12 @@ css:
 <p><i>October 2021 · Traditional · High School Advanced Sculpture </i></p>
 <br>
 <div class = "gallery">
-    <img src="/assets/images/gallery_images/3D_shark_sculpture_photos_1.png">
-    <img src="/assets/images/gallery_images/3D_shark_sculpture_photos_2.png">
-    <img src="/assets/images/gallery_images/3D_shark_sculpture_photos_3.png">
-    <img src="/assets/images/gallery_images/3D_shark_sculpture_photos_4.png">
-    <img src="/assets/images/gallery_images/3D_shark_sculpture_photos_5.png">
-    <img src="/assets/images/gallery_images/3D_shark_sculpture_photos_6.png">
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_shark_sculpture_photos_1.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_shark_sculpture_photos_2.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_shark_sculpture_photos_3.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_shark_sculpture_photos_4.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_shark_sculpture_photos_5.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_shark_sculpture_photos_6.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
 </div>
 <p>A shark-themed sculpture inspired by my favorite animated film <i>The Nightmare Before Christmas</i> (1999), which showcases my take on the villain Oogie Boogie and the hill from the movie's iconic graveyard scene. The image on the bottom right is a poster I designed for an exhibition of my class's end-of-year projects.</p>
 
@@ -480,12 +480,12 @@ css:
 <p><i>September 2021 · Traditional · High School Advanced Sculpture </i></p>
 <br>
 <div class = "gallery">
-    <img src="/assets/images/gallery_images/3D_gern_sculpture_photos_1.png">
-    <img src="/assets/images/gallery_images/3D_gern_sculpture_photos_2.png">
-    <img src="/assets/images/gallery_images/3D_gern_sculpture_photos_3.png">
-    <img src="/assets/images/gallery_images/3D_gern_sculpture_photos_4.png">
-    <img src="/assets/images/gallery_images/3D_gern_sculpture_photos_5.png">
-    <img src="/assets/images/gallery_images/3D_gern_sculpture_photos_6.png">
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_gern_sculpture_photos_1.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_gern_sculpture_photos_2.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_gern_sculpture_photos_3.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_gern_sculpture_photos_4.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_gern_sculpture_photos_5.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_gern_sculpture_photos_6.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
 </div>
 <p>This project - titled "Gern Blanston" by my sculpture teacher - is my first real introduction to molding, baking, and dry-painting a clay model.</p>
 
@@ -494,8 +494,8 @@ css:
 
 <div class="image_description_lr">
     <div class="photo_pair">
-        <img height="720" src="/assets/images/gallery_images/poster_jekyll_and_hyde_1.png" class="image_left">
-        <img height="720" src="/assets/images/gallery_images/poster_jekyll_and_hyde_2.png">
+        {% include responsive-image.html src="/assets/images/gallery_images/poster_jekyll_and_hyde_1.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
+        {% include responsive-image.html src="/assets/images/gallery_images/poster_jekyll_and_hyde_2.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" %}
     </div>
     <div class="description_right">
         <h2>Jekyll and Hyde Poster</h2>
@@ -529,12 +529,12 @@ css:
 <p><i>May 2021 · Traditional · High School Advanced Sculpture </i></p>
 <br>
 <div class = "gallery">
-    <img src="/assets/images/gallery_images/3D_dragon_sculpture_photos_1.png">
-    <img src="/assets/images/gallery_images/3D_dragon_sculpture_photos_2.png">
-    <img src="/assets/images/gallery_images/3D_dragon_sculpture_photos_3.png">
-    <img src="/assets/images/gallery_images/3D_dragon_sculpture_photos_4.png">
-    <img src="/assets/images/gallery_images/3D_dragon_sculpture_photos_5.png">
-    <img src="/assets/images/gallery_images/3D_dragon_sculpture_photos_6.png">
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_dragon_sculpture_photos_1.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_dragon_sculpture_photos_2.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_dragon_sculpture_photos_3.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_dragon_sculpture_photos_4.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_dragon_sculpture_photos_5.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
+    {% include responsive-image.html src="/assets/images/gallery_images/3D_dragon_sculpture_photos_6.png" alt="" sizes="(max-width: 520px) calc(100vw - 40px), (max-width: 820px) calc(50vw - 26px), 360px" loading="lazy" %}
 </div>
 <p>Adapting the old mythology of dragons that were fueled by an endless desire to hoard wealth, my sculpture connects this theme to modern day capitalism via the Bitcoin cryptocurrency. This piece is inspired by the cardboard sculptures of Laurence Vallières and is designed after the dragon Haku from the movie <i>Spirited Away</i> (2001). It is constructed from recycled cardboard and can be mounted on the wall using nails.</p>
 
@@ -542,7 +542,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="620" src="/assets/images/gallery_images/portrait_gravity_falls.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_gravity_falls.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Summer's End</h2>
         <p><i>April 2021 · Photoshop </i></p>
@@ -555,7 +555,7 @@ css:
 <br>
 
 <div class="image_description_lr">
-    <img height="400" src="/assets/images/gallery_images/portrait_beautiful_orc.png" class="image_left">
+    {% include responsive-image.html src="/assets/images/gallery_images/portrait_beautiful_orc.png" alt="" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="lazy" class="image_left" %}
     <div class="description_right">
         <h2>Anyone Can Be Beautiful</h2>
         <p><i>July 2020 · Photoshop </i></p> <br>

@@ -1,0 +1,2805 @@
+{
+  "meta": {
+    "generatedBy": "scripts/optimize-images.sh",
+    "configSha256": "0d18ca74cc030ebad7c3ca3d4a0e5905c7fe27e42780efbc6cfc88183527ab96",
+    "format": "webp",
+    "sourceCount": 94,
+    "originalBytes": 1288214178,
+    "optimizedBytes": 41209742,
+    "variantCount": 278
+  },
+  "images": {
+    "/WOTG_project_2023/images/WOTGBackgroundMountain.jpg": {
+      "width": 6067,
+      "height": 3467,
+      "sourceBytes": 5974540,
+      "sourceSha256": "42e4c660c0579fb9a22de7b80dbc8a56f86b287e86cc0e48158fdb6a648c3d63",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundMountain-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 314,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundMountain-550.webp",
+          "bytes": 21120,
+          "sha256": "4151c303049dfe0faf4b660c1410d911d19f81aec0801c3cfa02fade2ed48fb0"
+        },
+        {
+          "width": 1100,
+          "height": 629,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundMountain-1100.webp",
+          "bytes": 74628,
+          "sha256": "e65b8c23f8bdb00e4943c7ee57f22f2a4343abf5ef6eb0751a7cdd72227432ef"
+        },
+        {
+          "width": 1800,
+          "height": 1029,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundMountain-1800.webp",
+          "bytes": 173724,
+          "sha256": "ccfd386761645e867c2ab49dcbc0b608f3b19d29157e9926af7cd1ed936ecdac"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGBackgroundPalace.jpeg": {
+      "width": 4096,
+      "height": 2304,
+      "sourceBytes": 3840139,
+      "sourceSha256": "c9b0d58ca93504d4de0c508dfdbc4ac95dad235afb1b4c63419fc38d7ff99a44",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundPalace-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundPalace-550.webp",
+          "bytes": 44696,
+          "sha256": "55dbd6b5a41b143c2804a7d649db2578a6f74e12b0930928f57e8aa0a189ea27"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundPalace-1100.webp",
+          "bytes": 170564,
+          "sha256": "c2fab4dc3cf337721b2aaa11d9b46596daa3d30e5b70c1483fe6a07a071550db"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundPalace-1800.webp",
+          "bytes": 388698,
+          "sha256": "0003798493286ecf49e452a65e8f44c3a1bea9538429ac4138b58f783b908e16"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGFiona&Gang.png": {
+      "width": 4567,
+      "height": 4285,
+      "sourceBytes": 40774291,
+      "sourceSha256": "b113f5648add17c73259838d1c5b44178bfdb482347869c8deda594cd047659c",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Gang-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 516,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Gang-550.webp",
+          "bytes": 88526,
+          "sha256": "7508c5482f206917f7e666a3c8459c885dba4728fd0e62802bf54a02c7860231"
+        },
+        {
+          "width": 1100,
+          "height": 1032,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Gang-1100.webp",
+          "bytes": 330424,
+          "sha256": "14753b5452673ecf359362e07406ebba66afce3152ef64cc39e7fc656250f5cf"
+        },
+        {
+          "width": 1800,
+          "height": 1689,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Gang-1800.webp",
+          "bytes": 882752,
+          "sha256": "a3da01fdddfcf6ea14665416ba071ec9798b8bc7767a32f5efa92a5d149c854d"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGFiona&Manny.png": {
+      "width": 5027,
+      "height": 4200,
+      "sourceBytes": 20426133,
+      "sourceSha256": "f085880411d32d6b940d9b69c337465ae1a02e9b1fa8cec000519f1a84e37e98",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Manny-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 460,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Manny-550.webp",
+          "bytes": 39142,
+          "sha256": "9e968b11311b9b5e4200228bd3e5b62e196db3f71dc0a4aef33afbe609bc1573"
+        },
+        {
+          "width": 1100,
+          "height": 919,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Manny-1100.webp",
+          "bytes": 96816,
+          "sha256": "6d088a907330eec32795faed659825d4e3dafa6f2957e3ead26f4cfd984131c9"
+        },
+        {
+          "width": 1800,
+          "height": 1504,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGFiona&Manny-1800.webp",
+          "bytes": 181392,
+          "sha256": "9f78925df3663fcfbfbcbfa54612beff8c40cc20381e386af70b2a488b83434f"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGForBritain.png": {
+      "width": 3478,
+      "height": 4075,
+      "sourceBytes": 10723409,
+      "sourceSha256": "4f877d0a643c5fd51efa7501bdedf497aad8a5535ad598f017fb5212e4e8804b",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGForBritain-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 644,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGForBritain-550.webp",
+          "bytes": 41500,
+          "sha256": "ce35fe188dda2d5fa85d80e83ab674183bf52c8cef58e7df46fce252340d38a1"
+        },
+        {
+          "width": 1100,
+          "height": 1289,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGForBritain-1100.webp",
+          "bytes": 101174,
+          "sha256": "848d96f0f4a6210b38ac71a340b9327785de7cc549fd2720ae83a6dcd757c5b2"
+        },
+        {
+          "width": 1800,
+          "height": 2109,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGForBritain-1800.webp",
+          "bytes": 187308,
+          "sha256": "249fdaefac3604748c259bb8f970bbaca1f94b544c247b9ed1a12418a825ad80"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGHeadBurster1.png": {
+      "width": 4562,
+      "height": 5782,
+      "sourceBytes": 10849049,
+      "sourceSha256": "6cb553aa6c98d70894a0df9dd9c44c0c0dedcaf2a78b890189c289b53b3cd522",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 697,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster1-550.webp",
+          "bytes": 43808,
+          "sha256": "2159446424213e3e15391192f9ce85831212a7163c55837c62b6d2ea3bc9e41b"
+        },
+        {
+          "width": 1100,
+          "height": 1394,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster1-1100.webp",
+          "bytes": 112180,
+          "sha256": "b538589235f6f01f686ae1ec1337ca3b81a6d2ebbe6448fd0e4025563da70747"
+        },
+        {
+          "width": 1800,
+          "height": 2281,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster1-1800.webp",
+          "bytes": 214590,
+          "sha256": "d0070690d303973b2b1d63a571ed5164650f9f231af14eaad8252e10d0c29c4d"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGHeadBurster2.png": {
+      "width": 4562,
+      "height": 5782,
+      "sourceBytes": 5831844,
+      "sourceSha256": "c4b6f8e70bf4ecf1c4f885513d252397e8a733e4a2cb366f26e31d1bdd5ca6e7",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 697,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster2-550.webp",
+          "bytes": 45988,
+          "sha256": "754416fde035a218e300b5a87ea711a85b0eb8c2f378a8841e9800e485eb2071"
+        },
+        {
+          "width": 1100,
+          "height": 1394,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster2-1100.webp",
+          "bytes": 134464,
+          "sha256": "77a59aeabc2a044a717ca52b9b80cdc9152bf2c4b2536c689463e77b69b02493"
+        },
+        {
+          "width": 1800,
+          "height": 2281,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster2-1800.webp",
+          "bytes": 269324,
+          "sha256": "f9ff7b4c130a8f3670d34a87b6292d3af3f9d1f39c16922f62fac8474da8047d"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGHeadBurster3.png": {
+      "width": 4562,
+      "height": 5782,
+      "sourceBytes": 116714,
+      "sourceSha256": "ac24451f8c81b323f0573589bd819eabe00c2ba8c956d2953e841f78c151958f",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster3-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 697,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster3-550.webp",
+          "bytes": 762,
+          "sha256": "bad3bfa199ca2cbf3f50f063fbe7eb127ced63e2f77d362048f0906a3785745f"
+        },
+        {
+          "width": 1100,
+          "height": 1394,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster3-1100.webp",
+          "bytes": 2826,
+          "sha256": "3f33c62bfd3773a6062071143562c4ec906fd90a59f5542d5cf23371b072de79"
+        },
+        {
+          "width": 1800,
+          "height": 2281,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGHeadBurster3-1800.webp",
+          "bytes": 7416,
+          "sha256": "0558a1ce2e3c08195236d0cb8283d367972f225f947da9f61ba9cb3990a85641"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGIntroCleaver.png": {
+      "width": 3193,
+      "height": 4500,
+      "sourceBytes": 6879924,
+      "sourceSha256": "dcaafeaf3f770f372ac272cd3234e46659d54ceb585a26d14b7bfa26acca1000",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGIntroCleaver-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 775,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGIntroCleaver-550.webp",
+          "bytes": 45170,
+          "sha256": "b9580a70be335eb8d8c751e5b63705aa108cc26e7db1811a47262d33a3830e4b"
+        },
+        {
+          "width": 1100,
+          "height": 1550,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGIntroCleaver-1100.webp",
+          "bytes": 111922,
+          "sha256": "539b1982b1a2755ea48369c7ea1a758caf0acbc3c3535d43e2489a13c22e4734"
+        },
+        {
+          "width": 1800,
+          "height": 2537,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGIntroCleaver-1800.webp",
+          "bytes": 192578,
+          "sha256": "d630ac39ed44eb99b654eaa76b8b225abc5186d5c57dfdb543329f65dcf694cb"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGMnM.jpg": {
+      "width": 3000,
+      "height": 3600,
+      "sourceBytes": 3712469,
+      "sourceSha256": "a4ac2b6c69f2ba2dcd7ff77052fb5c487a883c173beaed8574615c343d6435b2",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGMnM-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 660,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGMnM-550.webp",
+          "bytes": 41792,
+          "sha256": "6052c4f6455973949d47e8148942ba8f1c0bb39b60550eb9f72afe9c9a9967b8"
+        },
+        {
+          "width": 1100,
+          "height": 1320,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGMnM-1100.webp",
+          "bytes": 96810,
+          "sha256": "f4de1dee4cfa9296b822105fca428855bd5ad7446da6b52a09de00820d0d0375"
+        },
+        {
+          "width": 1800,
+          "height": 2160,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGMnM-1800.webp",
+          "bytes": 182088,
+          "sha256": "ea2c16f5851942902839320b2f302fa8a0b2c38e141265b08b16334c54715f3f"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGPainting.png": {
+      "width": 3559,
+      "height": 4478,
+      "sourceBytes": 20700779,
+      "sourceSha256": "8188f82c2cb1ac176aaea981986407925878653159253d8215678d59ab22c419",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGPainting-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 692,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPainting-550.webp",
+          "bytes": 77350,
+          "sha256": "196bdf26d845380d51d7eb8ee9fc210037e36d48afcc831e59c0b8bc2eee8645"
+        },
+        {
+          "width": 1100,
+          "height": 1384,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPainting-1100.webp",
+          "bytes": 215940,
+          "sha256": "d6cab244e070167b947441ad06a63ae29a869e891767d84bfcf7bd2b1689eced"
+        },
+        {
+          "width": 1800,
+          "height": 2265,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPainting-1800.webp",
+          "bytes": 436584,
+          "sha256": "8fdca666f94e461f7956f5b0d9235d527d2f92a75046da262a74d86112693ddd"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGPaintingVandalism.png": {
+      "width": 3559,
+      "height": 4478,
+      "sourceBytes": 20819433,
+      "sourceSha256": "3ad75765b57d6430fb59f6cecbb659829b63f3ce880c227032fe9998aa113580",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGPaintingVandalism-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 692,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPaintingVandalism-550.webp",
+          "bytes": 87124,
+          "sha256": "4d58afcf15f0820a903faa43e8e4797ee83c6ce36900efd14414b65dc6ef94e5"
+        },
+        {
+          "width": 1100,
+          "height": 1384,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPaintingVandalism-1100.webp",
+          "bytes": 246374,
+          "sha256": "40cfc949b882d4ec9c416fe9ceaf5712cd468392ca4445d047b44b5c331da081"
+        },
+        {
+          "width": 1800,
+          "height": 2265,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPaintingVandalism-1800.webp",
+          "bytes": 489120,
+          "sha256": "497fa8525870681bf31465167dee3f33b2d96cc0ef922c48ec5811f64c5d25fd"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGPatronofMurder.png": {
+      "width": 3800,
+      "height": 4600,
+      "sourceBytes": 12641735,
+      "sourceSha256": "df12b7a759fa7db57787e1a25e51fc064038f856539b02e0853b6e66a10e45bd",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGPatronofMurder-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 666,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPatronofMurder-550.webp",
+          "bytes": 57870,
+          "sha256": "9b121ef23b24103e22a45b15fe933b2d7b5d0c91b3a034dc25ff879e79b08af0"
+        },
+        {
+          "width": 1100,
+          "height": 1332,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPatronofMurder-1100.webp",
+          "bytes": 163660,
+          "sha256": "4e56f01be4a8905fe3f8ec3290b99a3c8df0046a9d2ee7a2f4346d9c28ba722f"
+        },
+        {
+          "width": 1800,
+          "height": 2179,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPatronofMurder-1800.webp",
+          "bytes": 326670,
+          "sha256": "50c3903cb3c1ee5e410f687ae5f93d5b3b2aea8b3ea443174ecb7d7d6febe275"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGPortrait.png": {
+      "width": 8500,
+      "height": 6000,
+      "sourceBytes": 73870905,
+      "sourceSha256": "08719099f5d5d74dab077444bfb99a5beca06d827499d24ff9c4e6f5b649a291",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGPortrait-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 388,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPortrait-550.webp",
+          "bytes": 52126,
+          "sha256": "5cde2355172978d956ebe4d1e2c0a6303444cc18a6b5f7ba67289125b6d91b18"
+        },
+        {
+          "width": 1100,
+          "height": 776,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPortrait-1100.webp",
+          "bytes": 147114,
+          "sha256": "89fa0bffbd6eed892cfcf1304f7194a822259c141bfedc95899f4c32c2c53dfe"
+        },
+        {
+          "width": 1800,
+          "height": 1271,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPortrait-1800.webp",
+          "bytes": 293084,
+          "sha256": "3ba1fe680dd9edbc05732b10a18e732b45eb456681b4b23f8ab269df186b0ca1"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGProtagonist.png": {
+      "width": 4686,
+      "height": 4040,
+      "sourceBytes": 17936351,
+      "sourceSha256": "4fd3eaffa9f7a971ec2562a2680629dfee44f45dabc60219da2a9af482ccd78e",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGProtagonist-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 474,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGProtagonist-550.webp",
+          "bytes": 24810,
+          "sha256": "3e58e0644718c4eb2eb09313d2e9eaa0b59336b983c28d5697dff12a011f68cb"
+        },
+        {
+          "width": 1100,
+          "height": 948,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGProtagonist-1100.webp",
+          "bytes": 61740,
+          "sha256": "001f2c38af45b6e3c75f4178469627e3120f13bf41f2d0a77c3e26652cb1a8ee"
+        },
+        {
+          "width": 1800,
+          "height": 1552,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGProtagonist-1800.webp",
+          "bytes": 118168,
+          "sha256": "a73c5114b609570310d3231a985d2bf56b9d63de3862497ae5caeca989611e95"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGPummel.jpg": {
+      "width": 5027,
+      "height": 4130,
+      "sourceBytes": 2853906,
+      "sourceSha256": "7f90abc2e94e4c966ca39eaecb9a031b0dc91f1d44839c1151a4f09e26a49f93",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGPummel-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 452,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPummel-550.webp",
+          "bytes": 41898,
+          "sha256": "2bef78548c2144ea28a77d4af7690ca7215d235e88a3d163d8d2d4ce5997c146"
+        },
+        {
+          "width": 1100,
+          "height": 904,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPummel-1100.webp",
+          "bytes": 116908,
+          "sha256": "ce94e8f6c92c38aaef2cb77cc369c712658f2ba5f841bf1f77f3c771329d0cf6"
+        },
+        {
+          "width": 1800,
+          "height": 1479,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGPummel-1800.webp",
+          "bytes": 224064,
+          "sha256": "69c8faeb73e2782bb94734eaadfbdb9a80cada1661a5de267a0df27a39dcb19a"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGSarah&theGang.png": {
+      "width": 6000,
+      "height": 7000,
+      "sourceBytes": 44341436,
+      "sourceSha256": "723fc2901db703178fe17f9731bf6fa2a6f2e9ac581bbe75f939628cd5aa0731",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGSarah&theGang-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 642,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSarah&theGang-550.webp",
+          "bytes": 94414,
+          "sha256": "0e5b869d2252e34326e68c3adf2a5820c6f1a479c27b5b3c0146ac280f7ec4ae"
+        },
+        {
+          "width": 1100,
+          "height": 1283,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSarah&theGang-1100.webp",
+          "bytes": 286788,
+          "sha256": "740f78e31d052ec9b746ccb29e2426d89f95b9984839a96979ba769f932616d7"
+        },
+        {
+          "width": 1800,
+          "height": 2100,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSarah&theGang-1800.webp",
+          "bytes": 584964,
+          "sha256": "6c9d4a028ce658ebe7ef858fd5f06a12d4f0d49c08f16840223e8f6303514e22"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGSylvieMeet.png": {
+      "width": 3841,
+      "height": 3500,
+      "sourceBytes": 15461157,
+      "sourceSha256": "c541cfca9813eba66602b44de86d846f05ae319cf844aefdf2403b602e7c6f3f",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylvieMeet-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 501,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylvieMeet-550.webp",
+          "bytes": 37816,
+          "sha256": "72d95aed5a4e43bf769bbd230a7349ea464c2f22502d82d384e1da4eb4808120"
+        },
+        {
+          "width": 1100,
+          "height": 1002,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylvieMeet-1100.webp",
+          "bytes": 112458,
+          "sha256": "65049c0cfce8e84c46159e56b036526370668bda0f6cf37d543c1db2ec456b18"
+        },
+        {
+          "width": 1800,
+          "height": 1640,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylvieMeet-1800.webp",
+          "bytes": 233218,
+          "sha256": "777f2bc89a4662b31898b9dcaacef47ec25e5b732a6a57e547642ce1395904b7"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGSylviePortrait.png": {
+      "width": 3478,
+      "height": 4075,
+      "sourceBytes": 12741584,
+      "sourceSha256": "b867a92d9bb135fc0046655f511f3b6d16eda763715889b285ca6a107d8f4e75",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylviePortrait-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 644,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylviePortrait-550.webp",
+          "bytes": 47730,
+          "sha256": "6ad1efb1671b28c73d2115f06828486a1a8de82b6e62c80752b412a92d1e71f1"
+        },
+        {
+          "width": 1100,
+          "height": 1289,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylviePortrait-1100.webp",
+          "bytes": 112500,
+          "sha256": "78c915dac00b21142e5a42e2d29b7b55076bc6ac741a28bed80e56edb8538ec7"
+        },
+        {
+          "width": 1800,
+          "height": 2109,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGSylviePortrait-1800.webp",
+          "bytes": 209218,
+          "sha256": "bc8ecf1019fd7c7c405f6fc2cd49e66a1bb8c91fb9aa530ad82f79674e97e9e8"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGVillains.png": {
+      "width": 5500,
+      "height": 6288,
+      "sourceBytes": 52068843,
+      "sourceSha256": "8037da6262e5dd33c1fe2061d4c0ca3964010c6d7ef1e698bc5edfe7f78a0fc6",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGVillains-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 629,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGVillains-550.webp",
+          "bytes": 67154,
+          "sha256": "38163029a1d6f2c439d3e2a51486cb7f7e5b42609ad766dfb0bf293a853944b2"
+        },
+        {
+          "width": 1100,
+          "height": 1258,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGVillains-1100.webp",
+          "bytes": 173516,
+          "sha256": "6f38e794be5c46e22aa89c7b49b24bda7f9435442a4d4004e1971a4e0ed92de4"
+        },
+        {
+          "width": 1800,
+          "height": 2058,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGVillains-1800.webp",
+          "bytes": 325892,
+          "sha256": "333c95abc39a42bcc32a8ec057febc92b759a58b34677a438147718814045f81"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/WOTGWotw.png": {
+      "width": 4500,
+      "height": 5456,
+      "sourceBytes": 26930345,
+      "sourceSha256": "d6bc08c8c0460060c78195b04f0cac6a4f8dee89681819429c218beaed9bceae",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/WOTGWotw-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 667,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGWotw-550.webp",
+          "bytes": 33432,
+          "sha256": "911fe138ca8b7a9230360b7b7cd4bc0aab45370a93efe928d7f5962bd314658a"
+        },
+        {
+          "width": 1100,
+          "height": 1334,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGWotw-1100.webp",
+          "bytes": 81366,
+          "sha256": "1c1a4e754f3e82392e24d59b46a7f06c8150802f089c83bc957644a33132d0c9"
+        },
+        {
+          "width": 1800,
+          "height": 2182,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/WOTGWotw-1800.webp",
+          "bytes": 153406,
+          "sha256": "81445a3d905210ac1fe3244ddc50e7c2b88be59f1224e0f05501a0f43ee6e929"
+        }
+      ]
+    },
+    "/WOTG_project_2023/images/sksks.png": {
+      "width": 3000,
+      "height": 2400,
+      "sourceBytes": 3462998,
+      "sourceSha256": "294dad21b2e6c37a2b5530b8e2f10fd69c5f5edb109885a6c24b2483d74222f0",
+      "fallback": "/assets/images/optimized/WOTG_project_2023/images/sksks-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 440,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/sksks-550.webp",
+          "bytes": 16868,
+          "sha256": "2656f675e04cdb1bf09c76c1f8c424a7cad98bf36f376531976b93f46fd2bbf4"
+        },
+        {
+          "width": 1100,
+          "height": 880,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/sksks-1100.webp",
+          "bytes": 42912,
+          "sha256": "142621006f52af1b0d4815f7edbbe3cf445d3f676659aea7794d21eb6b366e89"
+        },
+        {
+          "width": 1800,
+          "height": 1440,
+          "src": "/assets/images/optimized/WOTG_project_2023/images/sksks-1800.webp",
+          "bytes": 92290,
+          "sha256": "5e1e896dd06ed35fcce446df7f62da588d5ec0d44683cd0f3fe468faf403f046"
+        }
+      ]
+    },
+    "/assets/images/anima_images/anima_banner_v1.png": {
+      "width": 3252,
+      "height": 1482,
+      "sourceBytes": 9005921,
+      "sourceSha256": "e52521db412888202d3f6001333b33b0f0ff43b2bead962140472a0e58e99c7c",
+      "fallback": "/assets/images/optimized/anima_images/anima_banner_v1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 251,
+          "src": "/assets/images/optimized/anima_images/anima_banner_v1-550.webp",
+          "bytes": 37310,
+          "sha256": "704063d651563017be1bb5a105179be327a0aaf7da4825ba92e6e2f9bed940bf"
+        },
+        {
+          "width": 1100,
+          "height": 501,
+          "src": "/assets/images/optimized/anima_images/anima_banner_v1-1100.webp",
+          "bytes": 111976,
+          "sha256": "d4754b3cfd02049e12e7a86518ba1171e4b88cbc0845ded675af2b3f394879a0"
+        },
+        {
+          "width": 1800,
+          "height": 820,
+          "src": "/assets/images/optimized/anima_images/anima_banner_v1-1800.webp",
+          "bytes": 247666,
+          "sha256": "c059eec0d0cd3b61adae2cffeaf67116bceeafb495eebf2c9b2a79f8ad21e554"
+        }
+      ]
+    },
+    "/assets/images/anima_images/anima_banner_v2.png": {
+      "width": 3252,
+      "height": 1482,
+      "sourceBytes": 6501463,
+      "sourceSha256": "e105b92f5449b21f5247a5bbaf02123b5cdaf5829624fd0c5512cac579eabf72",
+      "fallback": "/assets/images/optimized/anima_images/anima_banner_v2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 251,
+          "src": "/assets/images/optimized/anima_images/anima_banner_v2-550.webp",
+          "bytes": 29094,
+          "sha256": "102d9035224fc01938713e01146ee43a26b85aecd6bad9f92f695b297d3bdfdb"
+        },
+        {
+          "width": 1100,
+          "height": 501,
+          "src": "/assets/images/optimized/anima_images/anima_banner_v2-1100.webp",
+          "bytes": 84274,
+          "sha256": "46766350f2ac5c16e818a0c29a256a9d5dc95650784105443ee3e1997d9f7d37"
+        },
+        {
+          "width": 1800,
+          "height": 820,
+          "src": "/assets/images/optimized/anima_images/anima_banner_v2-1800.webp",
+          "bytes": 176812,
+          "sha256": "e05dd1d45590ad914a0afa0fffda2fa95c550be6889fd524928a87ce414f34cf"
+        }
+      ]
+    },
+    "/assets/images/anima_images/anima_poster.png": {
+      "width": 4200,
+      "height": 5500,
+      "sourceBytes": 19406779,
+      "sourceSha256": "ef6a1386610dc539fcc225a1a24a5fc1afed0f58b86707fa3298ee0f1292a4cd",
+      "fallback": "/assets/images/optimized/anima_images/anima_poster-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 720,
+          "src": "/assets/images/optimized/anima_images/anima_poster-550.webp",
+          "bytes": 96540,
+          "sha256": "39a632e08108c08f07ff3e2a506de30b075a4ae215dcce1cd28fdb4fa367955f"
+        },
+        {
+          "width": 1100,
+          "height": 1440,
+          "src": "/assets/images/optimized/anima_images/anima_poster-1100.webp",
+          "bytes": 310650,
+          "sha256": "f0b3cec9c1d0ee7c952d1e2520aa446b85634b6cbb3fc612361245b814182532"
+        },
+        {
+          "width": 1800,
+          "height": 2357,
+          "src": "/assets/images/optimized/anima_images/anima_poster-1800.webp",
+          "bytes": 644910,
+          "sha256": "b7ca6bdd6968f32fbd237b9b068f48305d0793db5892eb08e653dfc5e08c299a"
+        }
+      ]
+    },
+    "/assets/images/anima_images/sar_val_photo_v1.png": {
+      "width": 2685,
+      "height": 2006,
+      "sourceBytes": 6124788,
+      "sourceSha256": "027287613d5e07276765900d06698194bd51440669bdb37f406e5f78123a0f96",
+      "fallback": "/assets/images/optimized/anima_images/sar_val_photo_v1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 411,
+          "src": "/assets/images/optimized/anima_images/sar_val_photo_v1-550.webp",
+          "bytes": 31892,
+          "sha256": "e2ac3c339c334aa520ca7db418f8f37c3dd368b83b8efebc5e7158d57f3cf95a"
+        },
+        {
+          "width": 1100,
+          "height": 822,
+          "src": "/assets/images/optimized/anima_images/sar_val_photo_v1-1100.webp",
+          "bytes": 89322,
+          "sha256": "ff5dcf3af853001479ac4f1e7a5f9ebe7e731b5a96bde4dca73436c18ef06e53"
+        },
+        {
+          "width": 1800,
+          "height": 1345,
+          "src": "/assets/images/optimized/anima_images/sar_val_photo_v1-1800.webp",
+          "bytes": 178328,
+          "sha256": "be1644236b6a983b4e01017d98ed2035c2099cb65b5474cbf76ea8e231c29405"
+        }
+      ]
+    },
+    "/assets/images/anima_images/sar_val_photo_v2.png": {
+      "width": 2685,
+      "height": 2006,
+      "sourceBytes": 5278660,
+      "sourceSha256": "470f498e2d4f43ff7b2701cea06498d861b793c892a4d98a725924281074da79",
+      "fallback": "/assets/images/optimized/anima_images/sar_val_photo_v2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 411,
+          "src": "/assets/images/optimized/anima_images/sar_val_photo_v2-550.webp",
+          "bytes": 22560,
+          "sha256": "393c23514a6123880a434613f68182e5ea719f71246d3d7ce7cae97b89373ddd"
+        },
+        {
+          "width": 1100,
+          "height": 822,
+          "src": "/assets/images/optimized/anima_images/sar_val_photo_v2-1100.webp",
+          "bytes": 64562,
+          "sha256": "e85d0dc42786494470b69a6b2a24e23b9a5e5f40d7f4dfb68b01732c8e1e0276"
+        },
+        {
+          "width": 1800,
+          "height": 1345,
+          "src": "/assets/images/optimized/anima_images/sar_val_photo_v2-1800.webp",
+          "bytes": 131492,
+          "sha256": "ec05911b0b04623eaf764e69513cb4f5ace1c2e9b31b7422dadbf2aebc9f10cc"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_blenderGlasses1.1.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 8037468,
+      "sourceSha256": "821fe921ca7af7fb927ebd45536e17bc9e50fa9178baa757a810f035498d356b",
+      "fallback": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.1-550.webp",
+          "bytes": 4024,
+          "sha256": "6fc92d3ac24e70d89797eb7933c6c04c3c39df47b922e7663efbc5c0adf667d4"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.1-1100.webp",
+          "bytes": 10228,
+          "sha256": "ba47eab160e7dff10129323b1ca78e1430ff4a5728ff2c88fa58a4c737ef524f"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.1-1800.webp",
+          "bytes": 19280,
+          "sha256": "06d970d28da22fd0f5e5773f501d0f171d57f5b77ce66c068f7a259177cb0cef"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_blenderGlasses1.2.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 7978244,
+      "sourceSha256": "5ebabb0c577e74111f59aefdffd4b98510b466e86ec208b13ccb546b8b56736e",
+      "fallback": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.2-550.webp",
+          "bytes": 4788,
+          "sha256": "91b931f96dd35677ac0e03995fc02710e032b03dd68c46e35315863ea808ba7e"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.2-1100.webp",
+          "bytes": 11540,
+          "sha256": "69dc0ef4a03c175105f9843d7e2736dd3c83d7cd1143164e6506b1ea9a8014b8"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.2-1800.webp",
+          "bytes": 21938,
+          "sha256": "b5ac22bc1f9265384f93cf0864c23f1779aa0cd7e8dea12af9790afec878f95a"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_blenderGlasses1.3.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 8123011,
+      "sourceSha256": "86d5c83b44857a728464e1f93843b0f60a47618259625d86af82e05370003455",
+      "fallback": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.3-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.3-550.webp",
+          "bytes": 4896,
+          "sha256": "d54ff1cb6ac51fc556407d7282d495870c0683ec66f39ea602c707985efc2fe8"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.3-1100.webp",
+          "bytes": 12186,
+          "sha256": "7d5ea1dd90453bdad4a34e60255eb65cd2b98ae9ed3ceb0d2537adb04a472034"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses1.3-1800.webp",
+          "bytes": 23290,
+          "sha256": "2f749878c6ca6c30865202dccaf2291277fb8fe810bb669ef44cb62ae6a00bdf"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_blenderGlasses2.1.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 9056831,
+      "sourceSha256": "0d12e8d69b36da3c942bf409e96f78c514700c3fac712c3b28fd151e79da33d5",
+      "fallback": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.1-550.webp",
+          "bytes": 5932,
+          "sha256": "dbb242721221275d3285d8c9fb67d2d357966a3c31066139cbebb43257e9cb98"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.1-1100.webp",
+          "bytes": 21890,
+          "sha256": "c87ce1566fdd6525a1ec19b7e6b073c56858c8e55b4d0512d727da4a27766d30"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.1-1800.webp",
+          "bytes": 54688,
+          "sha256": "82fbe41f5e93e32413df42a8722f7f7a911ba4285d98ed2695afcdf6fc7f845e"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_blenderGlasses2.2.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 8965522,
+      "sourceSha256": "960d5ae52655e131f0185d64d458e6c4d2411cb7e5651d355278d45af3f461f9",
+      "fallback": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.2-550.webp",
+          "bytes": 7700,
+          "sha256": "bf196a477856867bb466c9d24f286ea4c5c8034810c16c066793e3296c775139"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.2-1100.webp",
+          "bytes": 21132,
+          "sha256": "b1e7ed87f7d402bf340f8dac04e5990e92d7b9c8f6370e48c92d243635e61655"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.2-1800.webp",
+          "bytes": 45108,
+          "sha256": "a2661023bc0526a34c2018f3a4c9368546b87d0ef86963c3c021b7bd6e497eb1"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_blenderGlasses2.3.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 9307928,
+      "sourceSha256": "6331ac790f19d95b4ea870a0543f70fac9b1624ae05dd7805f22cf20b9472a4c",
+      "fallback": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.3-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.3-550.webp",
+          "bytes": 7366,
+          "sha256": "906b5f724a4ada0e14ab6e0a86dbf63927ebd4bb969f910b8619659bed5d4082"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.3-1100.webp",
+          "bytes": 24830,
+          "sha256": "6470c3e9367693fe31c64a4d7bd6834648dfcd1f1dc13674bd02fa3cd658412c"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_blenderGlasses2.3-1800.webp",
+          "bytes": 61020,
+          "sha256": "cb2d2bb053f76cee754c9cd5c721eed89d4d26966619ff5937ad0bde0a0ffc7a"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_corruption_bust_1.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 6888061,
+      "sourceSha256": "ee6aa62a1d592d0964b7a9ebda4cad225fe5a9f64045314b181731152193e7cf",
+      "fallback": "/assets/images/optimized/gallery_images/3D_corruption_bust_1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_1-550.webp",
+          "bytes": 13378,
+          "sha256": "dd4e7f9fdd8145ace98f226981dbe3fa10557da4775f82265abfcd632a47a96c"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_1-1100.webp",
+          "bytes": 34158,
+          "sha256": "d6a7204654ac3a82b1855e4a724c3d865ac4fca742d5d072f7df1c40d3d10a9c"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_1-1800.webp",
+          "bytes": 64698,
+          "sha256": "73f4649924f2e0ff46411d57f1bfbe8d1d3e81cc46c914223930319bb9a1d499"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_corruption_bust_2.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 6401769,
+      "sourceSha256": "2e54cc73cb3927938eac02a4d57d562069099c952d581dcdae76b5cb0f7fb838",
+      "fallback": "/assets/images/optimized/gallery_images/3D_corruption_bust_2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_2-550.webp",
+          "bytes": 11894,
+          "sha256": "88b45f9d03a7007bde6c19598cf251ef92b808346cecbe1e13bff189be8f9ef1"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_2-1100.webp",
+          "bytes": 29596,
+          "sha256": "867288a6e8eaf9e0578b2db79758edf2ea4bdb44525069f20d5d53f80ac1510f"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_2-1800.webp",
+          "bytes": 55400,
+          "sha256": "83b3f9826a42ba07aa411b61efdbaca5e34d058565ed7da56ecb2a00d01cc4de"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_corruption_bust_3.png": {
+      "width": 3840,
+      "height": 2160,
+      "sourceBytes": 6369421,
+      "sourceSha256": "70d7d575e6cce43875472c350fd70110a3bc829b8acd2b840bd3d3debb7f7360",
+      "fallback": "/assets/images/optimized/gallery_images/3D_corruption_bust_3-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_3-550.webp",
+          "bytes": 12206,
+          "sha256": "71f39b13e14196bf200118504769f240d64d7ccc7926d18e14ba49808fc8ecf9"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_3-1100.webp",
+          "bytes": 30558,
+          "sha256": "f2fe3bbe9e7cb4bcf433c7c8313f39f3a30fae7c666747ff2b25179843c371fe"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/3D_corruption_bust_3-1800.webp",
+          "bytes": 59170,
+          "sha256": "e4196457cf6f4ba8be523490ee2014f41c6e57ef022034589dbd8f003d3f6999"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_dragon_sculpture_photos_1.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 3891257,
+      "sourceSha256": "55cd59770865f427e835885a7bde3fdd43c7bd6b7ab50702daca5b605b239932",
+      "fallback": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_1-550.webp",
+          "bytes": 27772,
+          "sha256": "6d534354fe43024c00db631ea700ad7c9d5dbd0c391232db749b49692529b1ab"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_1-1100.webp",
+          "bytes": 72106,
+          "sha256": "f69fd50d14b95a0eb6649df24f3498c5b4fdd2e35b16c7bda7c96eba56596125"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_1-1800.webp",
+          "bytes": 137660,
+          "sha256": "147b022ea0f94bcdf8392785acfcdc04000f1069bec052dfd81f13549dcab0f6"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_dragon_sculpture_photos_2.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 2805817,
+      "sourceSha256": "3e6921f6ffaa6b08f727cc72377076041fded801177e861b7f511f8ffa74e24b",
+      "fallback": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_2-550.webp",
+          "bytes": 19852,
+          "sha256": "b091599314c6d82f7656711a755f9b34f734ad74827ca8c81a4fe46d90ae78d3"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_2-1100.webp",
+          "bytes": 52654,
+          "sha256": "3cda0936c3afdeb017ae5697deadb68d11aa5abb4ae18c5e84da64d6e4bcf6da"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_2-1800.webp",
+          "bytes": 100404,
+          "sha256": "eac07059cb114e5e215b708d947f2ae3eebe71e6b584b6ae3d7ccf2880f92b15"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_dragon_sculpture_photos_3.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 3197841,
+      "sourceSha256": "8959db1ec7f3310fc284dae1933abb2d44bf2f4740de613bc6681b4072267d7e",
+      "fallback": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_3-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_3-550.webp",
+          "bytes": 23904,
+          "sha256": "f04c9874f6ca87b8350969bad8513767cd67551ce741e4247434e2f98c84e095"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_3-1100.webp",
+          "bytes": 66156,
+          "sha256": "3ebc4df46090884edf6548686962c7982fce782f0fd06b34ea03a94138b9ecc3"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_3-1800.webp",
+          "bytes": 130916,
+          "sha256": "179eae397daad022dd3a671cf1e63427d83ea7a3392c2abf5f21b45d2f6beca9"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_dragon_sculpture_photos_4.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 4252014,
+      "sourceSha256": "17dae0c08a159dd6d418cb52c859bcd506c703dfb8c47900757728fbb72bfae3",
+      "fallback": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_4-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_4-550.webp",
+          "bytes": 33232,
+          "sha256": "514b08c14bb439585a219be4108353c65687af1436a99ea518c82e65b40b4bc5"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_4-1100.webp",
+          "bytes": 91226,
+          "sha256": "f8e1d6df4fa1bf2d35062df985822385e82f91e9e7481f481a8a1e0efd095253"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_4-1800.webp",
+          "bytes": 177180,
+          "sha256": "7721b0c9212c7c5fc47ccb38c3a34906a7aef47e9443a03c6412ebec5607c133"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_dragon_sculpture_photos_5.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 2130021,
+      "sourceSha256": "4104e383040eaafbd2f7cbfe11aa39bdec1aa685d98ec4f94cd92baa45897ff6",
+      "fallback": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_5-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_5-550.webp",
+          "bytes": 13572,
+          "sha256": "68b23fd0169a627f81e02cc563a3cf5058e6ac740ceb23218f6232611ed1fd9c"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_5-1100.webp",
+          "bytes": 33742,
+          "sha256": "1632b75bcc46d510dfed008ed5db352672da9797119c829dbfa3f57dda811d7a"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_5-1800.webp",
+          "bytes": 63728,
+          "sha256": "93b5236d338d068c12d982667d85f443a532b303ab6b41dfc50648cb27cf5507"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_dragon_sculpture_photos_6.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 3580725,
+      "sourceSha256": "645224d1bac1ec1935a1880fd41497a669e2625a0faeefd3318919df6c19261c",
+      "fallback": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_6-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_6-550.webp",
+          "bytes": 22808,
+          "sha256": "aeb1279b77652ae80af951e778d40b9a499c936c4f05ec37c15ffd21a14f7d63"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_6-1100.webp",
+          "bytes": 61230,
+          "sha256": "6e486f680d183cfb21a55fdce1a9487d9760e24840db70e1c4a0c2a42d1de153"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_dragon_sculpture_photos_6-1800.webp",
+          "bytes": 120508,
+          "sha256": "44422a75b6101cad2191c9024e27a73b57cd902c04a8050eeec41fdff9660d5b"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_gern_sculpture_photos_1.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 5587877,
+      "sourceSha256": "5298294885e10a4c39701a5124fbd1b5a8795383b483803ae8264a94a62ea876",
+      "fallback": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_1-550.webp",
+          "bytes": 62218,
+          "sha256": "4aa9ebca9c95d6f856f769ffc2908eb38cd3bdf71539e6d988358c4fa100f679"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_1-1100.webp",
+          "bytes": 143430,
+          "sha256": "4706f4a0f3181820bb20e8840c4999f1fd3ddc6897efc1b807737a7368cace23"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_1-1800.webp",
+          "bytes": 244898,
+          "sha256": "f91b6ccd24711e453e1de052468440f2086c8352a820b48c7c1fa921df669fe6"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_gern_sculpture_photos_2.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 5858544,
+      "sourceSha256": "6da3c49f66dc6d40e62429d77d958e871d6513cba53d63df890c9d366a9f087d",
+      "fallback": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_2-550.webp",
+          "bytes": 55498,
+          "sha256": "55968997feefbe872865f9ae9206e6c00dad2fe00c2f5a5ba939ac3bae6d4e39"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_2-1100.webp",
+          "bytes": 144500,
+          "sha256": "1687701bb52ba05b77aff283faa54d9f54fd50d4a7871cc2a1a0c056cdcd65bb"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_2-1800.webp",
+          "bytes": 260876,
+          "sha256": "7b07ee1a26bb3c33c0849895ebbaf7ba27d6c3c93c6831c6e2dc39aadba845a2"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_gern_sculpture_photos_3.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 5502251,
+      "sourceSha256": "990522885321aebca4d2e0cc300c32be62ab07ff86a989e33c96caea3e9c1d0e",
+      "fallback": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_3-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_3-550.webp",
+          "bytes": 50674,
+          "sha256": "307a8631b9a5d8debbaa44d4e37759f13bc5940a5a3bf7dd4d86bfd692e57dba"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_3-1100.webp",
+          "bytes": 138602,
+          "sha256": "97232bc41b1ebbdb433f0ed63c52349bf8eab604eabcd401c207b6745e3f4a5c"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_3-1800.webp",
+          "bytes": 252346,
+          "sha256": "9665e5a1e14dceb838b1abff6fdcbcf38756dc8e055d9d38670f2ecc87ff8bd4"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_gern_sculpture_photos_4.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 6700204,
+      "sourceSha256": "f41948d874b6991d4d783abd5a134259c3681dd715eec2e1b1e3e39fa496dce7",
+      "fallback": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_4-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_4-550.webp",
+          "bytes": 72254,
+          "sha256": "c0ded265171bf0c94d213e63f415528c55778585e60a097a54d0a2ef4f37745f"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_4-1100.webp",
+          "bytes": 208432,
+          "sha256": "bed885fc0641575c724dd7807ca1b5b173b95c12137ea1712a116ecc62ab46b4"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_4-1800.webp",
+          "bytes": 384338,
+          "sha256": "31251eefae9caa026e2906dd45bebcb269c3ae93632c6b78ee53b73079fff309"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_gern_sculpture_photos_5.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 5595632,
+      "sourceSha256": "a5ccfe148f0dadc24e304a7182ac89ddf014b0a5df02da582bdec01d8d6e2d1a",
+      "fallback": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_5-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_5-550.webp",
+          "bytes": 58316,
+          "sha256": "838103eda7c7c1d82fc950ce98b3fb2b0fa59dbe76ae1369110a3de3c88b9f18"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_5-1100.webp",
+          "bytes": 167230,
+          "sha256": "fd73a3488c042ad06a68e2a3f7e200d8a5364c53ed9b8a96387036fe844a3881"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_5-1800.webp",
+          "bytes": 310728,
+          "sha256": "985de173a3507f9c76abaebe97a28f187be860260d60c789f857dd51bfacc7c1"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_gern_sculpture_photos_6.png": {
+      "width": 2100,
+      "height": 2100,
+      "sourceBytes": 5306240,
+      "sourceSha256": "7aa5ad9bf8685f9b29e767a5ef00db1d10f5be4da9f36f97d44dd808acb07161",
+      "fallback": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_6-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_6-550.webp",
+          "bytes": 49962,
+          "sha256": "d4a75715dfeacaeb5096582a04feaab46db3503befc80478ef4ae1b5d8a5f5e0"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_6-1100.webp",
+          "bytes": 139774,
+          "sha256": "c14ed714daa8b634394349f0790d6ac0d461e5b8490fa155ac077a4329d3ca6d"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/3D_gern_sculpture_photos_6-1800.webp",
+          "bytes": 269212,
+          "sha256": "7b93b06676dee799c7d7c756156a87e17287fd777240823674c45fcbb0e5a66e"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_shark_sculpture_photos_1.png": {
+      "width": 2044,
+      "height": 2100,
+      "sourceBytes": 7048759,
+      "sourceSha256": "1ca35f6d8846440e6826e00823b199a424ad3865bc5750a8166e13878ab6cef2",
+      "fallback": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 565,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_1-550.webp",
+          "bytes": 93424,
+          "sha256": "741375c95221feda7a4960310f0276f42b3aacf293bd1a9500f8241ebe53ab81"
+        },
+        {
+          "width": 1100,
+          "height": 1130,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_1-1100.webp",
+          "bytes": 303076,
+          "sha256": "82a763fadf4c0b85d600f6ebd19fed79b32c83f629138f9fffad3cb9cd66cf40"
+        },
+        {
+          "width": 1800,
+          "height": 1849,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_1-1800.webp",
+          "bytes": 605712,
+          "sha256": "2700525813dff4cdea3e6a2e1a843edd0baee6d015da0a9e0a67ea9fca6a7eaa"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_shark_sculpture_photos_2.png": {
+      "width": 2044,
+      "height": 2100,
+      "sourceBytes": 3832390,
+      "sourceSha256": "1c0ffaf286a72aefd00ee3c34ca11e3f9d55e95fb790adb0c906cebc855cb27d",
+      "fallback": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 565,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_2-550.webp",
+          "bytes": 42060,
+          "sha256": "6479e411411a48e4eaaef055357b78af4b4ea87666a7f95624a1fb4d62025dd0"
+        },
+        {
+          "width": 1100,
+          "height": 1130,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_2-1100.webp",
+          "bytes": 127066,
+          "sha256": "b3b53e87a0151288f19b02feaca480fff6b2b1d9f04f6577f778b13019c916fe"
+        },
+        {
+          "width": 1800,
+          "height": 1849,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_2-1800.webp",
+          "bytes": 252232,
+          "sha256": "f711dfeaea5ae285e2e852c739b3ce30f7c6001dd058e3b4e9170c7778930085"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_shark_sculpture_photos_3.png": {
+      "width": 2044,
+      "height": 2100,
+      "sourceBytes": 5040335,
+      "sourceSha256": "c4f631c4b9a4b5f9413ea5e98f65b49ff923e5ee9c3ff540850b5631ecdaff13",
+      "fallback": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_3-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 565,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_3-550.webp",
+          "bytes": 68000,
+          "sha256": "b7338ea234023d4eb1264c63b5478dcb14c374c511659ae90b9eee86772548cc"
+        },
+        {
+          "width": 1100,
+          "height": 1130,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_3-1100.webp",
+          "bytes": 193906,
+          "sha256": "09235c301ef8b90322341a5c87173b052c695d42549c66fdc0fcfca73d539e1f"
+        },
+        {
+          "width": 1800,
+          "height": 1849,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_3-1800.webp",
+          "bytes": 365896,
+          "sha256": "217fffc714cee7c88314393e87db4d8fa2e5656560734da58c7dd89190d4de91"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_shark_sculpture_photos_4.png": {
+      "width": 2044,
+      "height": 2100,
+      "sourceBytes": 7090344,
+      "sourceSha256": "ea717fef086cdf0e7156af0e4cb40d63f56905798b0bcb7493f61e666ce8daba",
+      "fallback": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_4-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 565,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_4-550.webp",
+          "bytes": 92266,
+          "sha256": "66b755cc90f6e5fd3954e6e3324e8bdc9c7188b1d0c7bc4ae43e63f8b04d49de"
+        },
+        {
+          "width": 1100,
+          "height": 1130,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_4-1100.webp",
+          "bytes": 305592,
+          "sha256": "bc1d06ab2d1eab4e26c214efdcfadb0c05d1e74a5077a0124a93a806c738ddb0"
+        },
+        {
+          "width": 1800,
+          "height": 1849,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_4-1800.webp",
+          "bytes": 603774,
+          "sha256": "a2a9fc3f921fd7bd0204fb0c996a973ddc32b6d9af3ef376193062611d8de2f1"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_shark_sculpture_photos_5.png": {
+      "width": 2044,
+      "height": 2100,
+      "sourceBytes": 3667960,
+      "sourceSha256": "6153d6abb0c0a6040a8cecb05aa5bfe7fe5db5c845b5cbc50d306f07c9215b11",
+      "fallback": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_5-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 565,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_5-550.webp",
+          "bytes": 41948,
+          "sha256": "d15e036108216c4a9beca44aee9fb2be141828b73343f848fc967864baead6b8"
+        },
+        {
+          "width": 1100,
+          "height": 1130,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_5-1100.webp",
+          "bytes": 126178,
+          "sha256": "f7460905078fe83fd1348a92c8b56c5c139ad1d0ede774e3c2cf9b6a1295040b"
+        },
+        {
+          "width": 1800,
+          "height": 1849,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_5-1800.webp",
+          "bytes": 246074,
+          "sha256": "37f2bb2dd05ad114f93f889c1840db84715ead8aeb2b85d27a04ae5320538459"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/3D_shark_sculpture_photos_6.png": {
+      "width": 2044,
+      "height": 2100,
+      "sourceBytes": 5957952,
+      "sourceSha256": "a65b466f7b13ebff04a0cc02a60b24099f7bd03bf279d30718e2429c75eb7a62",
+      "fallback": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_6-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 565,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_6-550.webp",
+          "bytes": 63010,
+          "sha256": "f3c797ed5ae0869f4e6fd631c92d7348b8f61de6c9171c69ffce61bf1e7caa28"
+        },
+        {
+          "width": 1100,
+          "height": 1130,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_6-1100.webp",
+          "bytes": 253066,
+          "sha256": "1ce7c85200f9ab6448efdd9435901c5dec8a6df5e905637dbbc9c37f3d2eb05e"
+        },
+        {
+          "width": 1800,
+          "height": 1849,
+          "src": "/assets/images/optimized/gallery_images/3D_shark_sculpture_photos_6-1800.webp",
+          "bytes": 592938,
+          "sha256": "e9b6a0ece4c9b61402900a9c61bc148dbfea90886e5a2d11f2db9bc475195a6a"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/banner_anima.png": {
+      "width": 3252,
+      "height": 1482,
+      "sourceBytes": 9005921,
+      "sourceSha256": "e52521db412888202d3f6001333b33b0f0ff43b2bead962140472a0e58e99c7c",
+      "fallback": "/assets/images/optimized/gallery_images/banner_anima-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 251,
+          "src": "/assets/images/optimized/gallery_images/banner_anima-550.webp",
+          "bytes": 37310,
+          "sha256": "704063d651563017be1bb5a105179be327a0aaf7da4825ba92e6e2f9bed940bf"
+        },
+        {
+          "width": 1100,
+          "height": 501,
+          "src": "/assets/images/optimized/gallery_images/banner_anima-1100.webp",
+          "bytes": 111976,
+          "sha256": "d4754b3cfd02049e12e7a86518ba1171e4b88cbc0845ded675af2b3f394879a0"
+        },
+        {
+          "width": 1800,
+          "height": 820,
+          "src": "/assets/images/optimized/gallery_images/banner_anima-1800.webp",
+          "bytes": 247666,
+          "sha256": "c059eec0d0cd3b61adae2cffeaf67116bceeafb495eebf2c9b2a79f8ad21e554"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/commission_album_cover.png": {
+      "width": 4577,
+      "height": 4211,
+      "sourceBytes": 21588834,
+      "sourceSha256": "e63eb3535711304c12d6e9fe669b49bb1707ffd0ef83987e43e59f8b6f3811fd",
+      "fallback": "/assets/images/optimized/gallery_images/commission_album_cover-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 506,
+          "src": "/assets/images/optimized/gallery_images/commission_album_cover-550.webp",
+          "bytes": 37046,
+          "sha256": "e79d6dbc83156d82f649b01267b0dd272c414f6637b651d1ff3a3ac82bedfc5a"
+        },
+        {
+          "width": 1100,
+          "height": 1012,
+          "src": "/assets/images/optimized/gallery_images/commission_album_cover-1100.webp",
+          "bytes": 102512,
+          "sha256": "546314b83fbabc64f1d1d66dc636c796e5c1e5bd9f77c15cd4312c1643532f8e"
+        },
+        {
+          "width": 1800,
+          "height": 1656,
+          "src": "/assets/images/optimized/gallery_images/commission_album_cover-1800.webp",
+          "bytes": 209944,
+          "sha256": "f66fb4ebcbd09d00474bd503231ad30d1d55b36fb6eb8980aa033f460f029e6d"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/commission_httyd.png": {
+      "width": 4793,
+      "height": 3441,
+      "sourceBytes": 23935996,
+      "sourceSha256": "2c168fbfe5967fa5e157df90a149ba3def6fa260e6772120a21fb665683fc0c6",
+      "fallback": "/assets/images/optimized/gallery_images/commission_httyd-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 395,
+          "src": "/assets/images/optimized/gallery_images/commission_httyd-550.webp",
+          "bytes": 39268,
+          "sha256": "b96d583e81c0a5bc07b5b1e4634758d10ef0e1a6ea8e4aeb6cc89c6532375375"
+        },
+        {
+          "width": 1100,
+          "height": 790,
+          "src": "/assets/images/optimized/gallery_images/commission_httyd-1100.webp",
+          "bytes": 143564,
+          "sha256": "e902afa6b37fac86b1941fe3559e86ca64c610d35d13a37cfe4a830c0387e5d7"
+        },
+        {
+          "width": 1800,
+          "height": 1292,
+          "src": "/assets/images/optimized/gallery_images/commission_httyd-1800.webp",
+          "bytes": 326344,
+          "sha256": "748010f02b150507d39ee8fe108c1996ee43dbb2e782be9ae2db3e1ee4ac9819"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/commission_pride_cat.png": {
+      "width": 4640,
+      "height": 4640,
+      "sourceBytes": 16191449,
+      "sourceSha256": "048110cec596f3b460d38a9354ac13675553e6bfa9826d3078f737ef6c9ed843",
+      "fallback": "/assets/images/optimized/gallery_images/commission_pride_cat-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 550,
+          "src": "/assets/images/optimized/gallery_images/commission_pride_cat-550.webp",
+          "bytes": 80598,
+          "sha256": "3c274fc2719886456b6c1bc22318deeb0efc62b3e9bc0e59991d24257b385e53"
+        },
+        {
+          "width": 1100,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/commission_pride_cat-1100.webp",
+          "bytes": 199306,
+          "sha256": "2c38c375b21bdb0c82aea53c2de630d85f1120e6a6c33269e62bcca5c4fdd7d8"
+        },
+        {
+          "width": 1800,
+          "height": 1800,
+          "src": "/assets/images/optimized/gallery_images/commission_pride_cat-1800.webp",
+          "bytes": 357944,
+          "sha256": "f934e0b5f229a14407bc899951527b6e0b592657e11ee4eeffa92e7100de05a2"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/compsci_journal.png": {
+      "width": 9050,
+      "height": 3000,
+      "sourceBytes": 2600495,
+      "sourceSha256": "48b4567097fc412277c3c445ee5081e9691ab15e9b226ecc826b6bd9bd089649",
+      "fallback": "/assets/images/optimized/gallery_images/compsci_journal-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 182,
+          "src": "/assets/images/optimized/gallery_images/compsci_journal-550.webp",
+          "bytes": 39288,
+          "sha256": "73be3471f219e0c9b16799e6a90728678acad17655f678d603555364b76bea91"
+        },
+        {
+          "width": 1100,
+          "height": 365,
+          "src": "/assets/images/optimized/gallery_images/compsci_journal-1100.webp",
+          "bytes": 108858,
+          "sha256": "c247f1660dfb8937afd019b50b1a0cc9471073012dd0a29c476aca12d3545263"
+        },
+        {
+          "width": 1800,
+          "height": 597,
+          "src": "/assets/images/optimized/gallery_images/compsci_journal-1800.webp",
+          "bytes": 242954,
+          "sha256": "2bfd752a5559b958d01f39649b23db6592a521f755aa2e9babd2ee82c4a595b9"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/concept_wotg_characters.png": {
+      "width": 10016,
+      "height": 4758,
+      "sourceBytes": 14710166,
+      "sourceSha256": "77d1cd26b5f4a851fcd7c1057cda67000e8ee097161458c2f1ca8ffbd5263ecd",
+      "fallback": "/assets/images/optimized/gallery_images/concept_wotg_characters-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 261,
+          "src": "/assets/images/optimized/gallery_images/concept_wotg_characters-550.webp",
+          "bytes": 55086,
+          "sha256": "8a3be2a5d9d6e9f66d842469989836b6e9bf761d444ce4b485976416eff0c4f9"
+        },
+        {
+          "width": 1100,
+          "height": 523,
+          "src": "/assets/images/optimized/gallery_images/concept_wotg_characters-1100.webp",
+          "bytes": 134888,
+          "sha256": "3fbc8c5259331d0c608db3ed1aabcac33eb0f4958831308062c100110caf05d5"
+        },
+        {
+          "width": 1800,
+          "height": 855,
+          "src": "/assets/images/optimized/gallery_images/concept_wotg_characters-1800.webp",
+          "bytes": 261256,
+          "sha256": "c0e3a35a1dbcec515bf727386362fd4531eafea08b638e369075e13b1571eea7"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_ballerina.png": {
+      "width": 4500,
+      "height": 6000,
+      "sourceBytes": 40737169,
+      "sourceSha256": "75edc3631ea9e49999a50e2dd9eb73360f709fad12910ccc923a3c6d61a68990",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_ballerina-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 733,
+          "src": "/assets/images/optimized/gallery_images/portrait_ballerina-550.webp",
+          "bytes": 95334,
+          "sha256": "ff96b9f48458dff122209d0c23f1e039f7f2285fcb9c049234df89d2e27b29d0"
+        },
+        {
+          "width": 1100,
+          "height": 1467,
+          "src": "/assets/images/optimized/gallery_images/portrait_ballerina-1100.webp",
+          "bytes": 320084,
+          "sha256": "5e850b817e175889202fc7ee2e67f969f0c516bb2e8d0e2310f90c60c6ea9861"
+        },
+        {
+          "width": 1800,
+          "height": 2400,
+          "src": "/assets/images/optimized/gallery_images/portrait_ballerina-1800.webp",
+          "bytes": 776162,
+          "sha256": "244713ed87745a1d80e2a3780c73f6ff0d96dc62965f9ed426059bc285d55417"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_beautiful_orc.png": {
+      "width": 1920,
+      "height": 1080,
+      "sourceBytes": 1188374,
+      "sourceSha256": "72d690fa5734dbb4b9164fe0eb4b1e4a4666c5ea45e7580995ea2385e5171727",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_beautiful_orc-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 309,
+          "src": "/assets/images/optimized/gallery_images/portrait_beautiful_orc-550.webp",
+          "bytes": 20566,
+          "sha256": "89274ef2f056850d80fad6ce13d03885d3f51e561030e86c6c1fcd7e6b2648c6"
+        },
+        {
+          "width": 1100,
+          "height": 619,
+          "src": "/assets/images/optimized/gallery_images/portrait_beautiful_orc-1100.webp",
+          "bytes": 49138,
+          "sha256": "5c801c8ad7f89583fa911bfd46c12f34416a9d533596bf8e6c83f4df69f1c188"
+        },
+        {
+          "width": 1800,
+          "height": 1013,
+          "src": "/assets/images/optimized/gallery_images/portrait_beautiful_orc-1800.webp",
+          "bytes": 89758,
+          "sha256": "a26670ef43adc25a2ea037c083b3345c0a67119431e76507bfe611bd72687c8b"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_birth.png": {
+      "width": 3337,
+      "height": 2674,
+      "sourceBytes": 13493069,
+      "sourceSha256": "9d7311b87f30f607abe05ed786a27e995638288d8f5598212455249cece6cbbe",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_birth-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 441,
+          "src": "/assets/images/optimized/gallery_images/portrait_birth-550.webp",
+          "bytes": 43828,
+          "sha256": "caf754e7300c8d62969e7bbde9439f4cd619dc93f99ed41482fc116b658c95dc"
+        },
+        {
+          "width": 1100,
+          "height": 881,
+          "src": "/assets/images/optimized/gallery_images/portrait_birth-1100.webp",
+          "bytes": 139396,
+          "sha256": "776d3cf21dc0b3a6bfc89e2ab60da0f5316d4ed71264896e6cfe494e1e959af8"
+        },
+        {
+          "width": 1800,
+          "height": 1442,
+          "src": "/assets/images/optimized/gallery_images/portrait_birth-1800.webp",
+          "bytes": 305408,
+          "sha256": "7d71614480f657093fe7d42ecf302d9094c7332d4634d4130da235ac31ae1d6f"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_estrella_hand.png": {
+      "width": 5113,
+      "height": 4344,
+      "sourceBytes": 22943984,
+      "sourceSha256": "ae1749b2db70bcabfd42acb54eefceaca2028832bfde7109010ce532bfce95b7",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_estrella_hand-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 467,
+          "src": "/assets/images/optimized/gallery_images/portrait_estrella_hand-550.webp",
+          "bytes": 37344,
+          "sha256": "fecd87a544115dcc2f2b8e431d4220810ba996cd1bdcce6a59d73de91bc5eb1c"
+        },
+        {
+          "width": 1100,
+          "height": 935,
+          "src": "/assets/images/optimized/gallery_images/portrait_estrella_hand-1100.webp",
+          "bytes": 104572,
+          "sha256": "53ed2b7cc582c20d962479845488a4e9c052e9726ad1cb0bd6ca9282ef1866ee"
+        },
+        {
+          "width": 1800,
+          "height": 1529,
+          "src": "/assets/images/optimized/gallery_images/portrait_estrella_hand-1800.webp",
+          "bytes": 215036,
+          "sha256": "6b3e6bbae63f4b0b1eb5e88362941479c2f9306bc5a317314a5672a9bfa36f98"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_estrella_space.png": {
+      "width": 4101,
+      "height": 3423,
+      "sourceBytes": 16309965,
+      "sourceSha256": "c2724adaccb8033ccde8a752f174fc93fee9e08948eb7d3f841f4d0c84bfe601",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_estrella_space-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 459,
+          "src": "/assets/images/optimized/gallery_images/portrait_estrella_space-550.webp",
+          "bytes": 21044,
+          "sha256": "e2bf96b75ac05716c2f59f27d552ee00edc59a04be0d0bf0ac4dc54030766d45"
+        },
+        {
+          "width": 1100,
+          "height": 918,
+          "src": "/assets/images/optimized/gallery_images/portrait_estrella_space-1100.webp",
+          "bytes": 59854,
+          "sha256": "54a411b857099888626c865b2a4fadfbec74feaa80940e0aa3f6342f41d00077"
+        },
+        {
+          "width": 1800,
+          "height": 1502,
+          "src": "/assets/images/optimized/gallery_images/portrait_estrella_space-1800.webp",
+          "bytes": 133640,
+          "sha256": "7071b4cdb3fd48a739db5a3537c61f2857646c1c39d3e187b41f24735caf72cc"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_forest_elf.png": {
+      "width": 6400,
+      "height": 4406,
+      "sourceBytes": 19768504,
+      "sourceSha256": "08cf359acc1f08efef7db810ac42b8f2e9866e8f5fb90d860dab6aa6fd846d49",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_forest_elf-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 379,
+          "src": "/assets/images/optimized/gallery_images/portrait_forest_elf-550.webp",
+          "bytes": 34826,
+          "sha256": "d531a7a80627bdf168c8647a1a234e60d4c5e8097a68d1b7b5904da8e6fd3663"
+        },
+        {
+          "width": 1100,
+          "height": 757,
+          "src": "/assets/images/optimized/gallery_images/portrait_forest_elf-1100.webp",
+          "bytes": 105454,
+          "sha256": "6a063e1555cd613292e18b854e78d1819cd399fca4f260ed8444c65068fd1412"
+        },
+        {
+          "width": 1800,
+          "height": 1239,
+          "src": "/assets/images/optimized/gallery_images/portrait_forest_elf-1800.webp",
+          "bytes": 217856,
+          "sha256": "319428a906dd19ef7901df7a015ea24e177e810217e1dd2289da4fab60da7a71"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_gravity_falls.png": {
+      "width": 3000,
+      "height": 2400,
+      "sourceBytes": 9177335,
+      "sourceSha256": "035bd52ff1975f62cd91aa2d60f7f4592545c33c3b503e59b29b4bdf69877451",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_gravity_falls-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 440,
+          "src": "/assets/images/optimized/gallery_images/portrait_gravity_falls-550.webp",
+          "bytes": 38646,
+          "sha256": "f623638f4b6d47e299b1d9fe40cf21707dd9b46de01a68cf5320648f9cfc897a"
+        },
+        {
+          "width": 1100,
+          "height": 880,
+          "src": "/assets/images/optimized/gallery_images/portrait_gravity_falls-1100.webp",
+          "bytes": 115142,
+          "sha256": "7504e82263105152aededd8f275c807a7fffe71a8f7725842a15cd5cafa86a4a"
+        },
+        {
+          "width": 1800,
+          "height": 1440,
+          "src": "/assets/images/optimized/gallery_images/portrait_gravity_falls-1800.webp",
+          "bytes": 236248,
+          "sha256": "500269d132b25c94502d2bd2eadc3cb2a9029a9c9898dc2640854adb38cdedee"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_khaspur.png": {
+      "width": 1924,
+      "height": 1454,
+      "sourceBytes": 2862524,
+      "sourceSha256": "7b13b7002098d9a62b6e9861216e29e09a0185656a2f8a7119cc4a2cb05ee527",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_khaspur-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 416,
+          "src": "/assets/images/optimized/gallery_images/portrait_khaspur-550.webp",
+          "bytes": 18344,
+          "sha256": "53cec8689f127103ed197b3f550a61c856de8871c69397cf189f5a5915c9536c"
+        },
+        {
+          "width": 1100,
+          "height": 831,
+          "src": "/assets/images/optimized/gallery_images/portrait_khaspur-1100.webp",
+          "bytes": 51490,
+          "sha256": "9b1b6260afa178e82887b9ad58f7b7a8a8f96c3a32e6815a4baf86322e04b96b"
+        },
+        {
+          "width": 1800,
+          "height": 1360,
+          "src": "/assets/images/optimized/gallery_images/portrait_khaspur-1800.webp",
+          "bytes": 99588,
+          "sha256": "79686a36a9d359c9a524bcf635255a8e3a802625b581d2c0e7b66dc19a17eb9c"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_nezmahil.png": {
+      "width": 3400,
+      "height": 2160,
+      "sourceBytes": 7365235,
+      "sourceSha256": "5f2b8372cc82e52b1fc25d1d60dc62a6e0804bcc324e3d5700fae27658676819",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_nezmahil-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 349,
+          "src": "/assets/images/optimized/gallery_images/portrait_nezmahil-550.webp",
+          "bytes": 27866,
+          "sha256": "a32f8802072cba9b975c31a9cf0abb31bdb84cd40dd43891e588fe898f884420"
+        },
+        {
+          "width": 1100,
+          "height": 699,
+          "src": "/assets/images/optimized/gallery_images/portrait_nezmahil-1100.webp",
+          "bytes": 81702,
+          "sha256": "9125f1aee519fca7906e74e09ce5575a98f5bcf1cfea94a247c52575a2f1e492"
+        },
+        {
+          "width": 1800,
+          "height": 1144,
+          "src": "/assets/images/optimized/gallery_images/portrait_nezmahil-1800.webp",
+          "bytes": 175392,
+          "sha256": "0081120d797ed002c361a40f8894339da07df2a4d222ddc96226706756aa6871"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_sarah_followed.png": {
+      "width": 6200,
+      "height": 5400,
+      "sourceBytes": 9198197,
+      "sourceSha256": "7f18c0b9b3b4951e509e3e24f14977ea57183525158e6ca28339ac93ed9ee207",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_sarah_followed-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 479,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_followed-550.webp",
+          "bytes": 40844,
+          "sha256": "2edabb8f8b258f5169dbde8b79660b62da7ee388466e6e91013eefc6c405fa97"
+        },
+        {
+          "width": 1100,
+          "height": 958,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_followed-1100.webp",
+          "bytes": 110170,
+          "sha256": "6d3c9934e9e472ab883d3fffe8eee8523bf5ad71e89a1c27344076a8430880da"
+        },
+        {
+          "width": 1800,
+          "height": 1568,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_followed-1800.webp",
+          "bytes": 229688,
+          "sha256": "7999871130763cb23d159a55bf25b8993cb6504d32c08894f83fe01187fa3eb3"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_sarah_headburster.png": {
+      "width": 4562,
+      "height": 5782,
+      "sourceBytes": 30969333,
+      "sourceSha256": "102a97822fe5eb0184f83108418f5bf3770f73f9874bb5fde925ad950a58c084",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_sarah_headburster-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 697,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_headburster-550.webp",
+          "bytes": 62272,
+          "sha256": "4e8369b3e4f4bcc833bac72635552297865b1d1dd7fd1c7854a70317c9b09f8a"
+        },
+        {
+          "width": 1100,
+          "height": 1394,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_headburster-1100.webp",
+          "bytes": 155420,
+          "sha256": "60cf33967e52f6ed06b426b93cca034100d396e052478984dcdfd1f08d5b54f8"
+        },
+        {
+          "width": 1800,
+          "height": 2281,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_headburster-1800.webp",
+          "bytes": 294774,
+          "sha256": "37630f918927a7cd2b4198536f2e90900e9f9316768494629d12e50525015eaa"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_sarah_valerie_1.png": {
+      "width": 6000,
+      "height": 4500,
+      "sourceBytes": 29233629,
+      "sourceSha256": "dffb71bf3fb3247e6dea4191d74411c24c70fa398071ec985e022b20e3d6c8af",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 413,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_1-550.webp",
+          "bytes": 31440,
+          "sha256": "b874676f4bcc83da97532e008db4adaf735cc4efc26caf218669ea4f1b4af675"
+        },
+        {
+          "width": 1100,
+          "height": 825,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_1-1100.webp",
+          "bytes": 84498,
+          "sha256": "61e2733a530610746859de3fefaa0e29202d337244d81c3ce860a87f673c8c19"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_1-1800.webp",
+          "bytes": 163982,
+          "sha256": "4aaafdcec953a7b8bb70024e37cda880f774fac7a176974f584128bd9857fe3d"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_sarah_valerie_2.png": {
+      "width": 2685,
+      "height": 2006,
+      "sourceBytes": 5278660,
+      "sourceSha256": "470f498e2d4f43ff7b2701cea06498d861b793c892a4d98a725924281074da79",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 411,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_2-550.webp",
+          "bytes": 22560,
+          "sha256": "393c23514a6123880a434613f68182e5ea719f71246d3d7ce7cae97b89373ddd"
+        },
+        {
+          "width": 1100,
+          "height": 822,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_2-1100.webp",
+          "bytes": 64562,
+          "sha256": "e85d0dc42786494470b69a6b2a24e23b9a5e5f40d7f4dfb68b01732c8e1e0276"
+        },
+        {
+          "width": 1800,
+          "height": 1345,
+          "src": "/assets/images/optimized/gallery_images/portrait_sarah_valerie_2-1800.webp",
+          "bytes": 131492,
+          "sha256": "ec05911b0b04623eaf764e69513cb4f5ace1c2e9b31b7422dadbf2aebc9f10cc"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_sylvie.png": {
+      "width": 3400,
+      "height": 2160,
+      "sourceBytes": 8273578,
+      "sourceSha256": "5be61eb36dbb893382be1e11b3d763692b1bb291dbcb5e907d97051a6d1bd927",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_sylvie-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 349,
+          "src": "/assets/images/optimized/gallery_images/portrait_sylvie-550.webp",
+          "bytes": 29480,
+          "sha256": "f98a6f33667b3db5d2af81ee48744a5a88f6763544ad33927b7c5dd1abceff08"
+        },
+        {
+          "width": 1100,
+          "height": 699,
+          "src": "/assets/images/optimized/gallery_images/portrait_sylvie-1100.webp",
+          "bytes": 85890,
+          "sha256": "02e7880cf4c3c4a973011df7229aa1edb3001c4125f05b7f40e0fd6cdb62803c"
+        },
+        {
+          "width": 1800,
+          "height": 1144,
+          "src": "/assets/images/optimized/gallery_images/portrait_sylvie-1800.webp",
+          "bytes": 173638,
+          "sha256": "94f7fb82caeddd19015e33768891502c08053f9118d67a059b1212f59c6ae6f2"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_sylvie_wizard.png": {
+      "width": 3841,
+      "height": 3500,
+      "sourceBytes": 15461157,
+      "sourceSha256": "c541cfca9813eba66602b44de86d846f05ae319cf844aefdf2403b602e7c6f3f",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_sylvie_wizard-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 501,
+          "src": "/assets/images/optimized/gallery_images/portrait_sylvie_wizard-550.webp",
+          "bytes": 37816,
+          "sha256": "72d95aed5a4e43bf769bbd230a7349ea464c2f22502d82d384e1da4eb4808120"
+        },
+        {
+          "width": 1100,
+          "height": 1002,
+          "src": "/assets/images/optimized/gallery_images/portrait_sylvie_wizard-1100.webp",
+          "bytes": 112458,
+          "sha256": "65049c0cfce8e84c46159e56b036526370668bda0f6cf37d543c1db2ec456b18"
+        },
+        {
+          "width": 1800,
+          "height": 1640,
+          "src": "/assets/images/optimized/gallery_images/portrait_sylvie_wizard-1800.webp",
+          "bytes": 233218,
+          "sha256": "777f2bc89a4662b31898b9dcaacef47ec25e5b732a6a57e547642ce1395904b7"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/portrait_v.png": {
+      "width": 1829,
+      "height": 1337,
+      "sourceBytes": 4562940,
+      "sourceSha256": "d49b4a3348abe8497327cebe6c630e1371e3ee5b620513a843cb982de982883d",
+      "fallback": "/assets/images/optimized/gallery_images/portrait_v-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 402,
+          "src": "/assets/images/optimized/gallery_images/portrait_v-550.webp",
+          "bytes": 60290,
+          "sha256": "dd7dfd4c735ddb45a5dde4fbc3534b23b0dff618e5ac65b0fc49ccb6b74d6d1a"
+        },
+        {
+          "width": 1100,
+          "height": 804,
+          "src": "/assets/images/optimized/gallery_images/portrait_v-1100.webp",
+          "bytes": 199830,
+          "sha256": "2daa24ba13e6860979a29143d4e3e1a92605ea9699c1844724c99ad6d4ce9a1d"
+        },
+        {
+          "width": 1800,
+          "height": 1316,
+          "src": "/assets/images/optimized/gallery_images/portrait_v-1800.webp",
+          "bytes": 398026,
+          "sha256": "6be68b685015a20b496c081b3dce3c246e6a37437427d0d59f793deb8ab68102"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_anima.png": {
+      "width": 4200,
+      "height": 5500,
+      "sourceBytes": 19292389,
+      "sourceSha256": "2dcea4edc19c3a70059cc826e50e4f72f0361bedd3ba19b1ac087e30c6cde9d6",
+      "fallback": "/assets/images/optimized/gallery_images/poster_anima-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 720,
+          "src": "/assets/images/optimized/gallery_images/poster_anima-550.webp",
+          "bytes": 93098,
+          "sha256": "1749b742f005b3ccc4897c541d314ac6ab95cb49236d067b1f5feabb21f05375"
+        },
+        {
+          "width": 1100,
+          "height": 1440,
+          "src": "/assets/images/optimized/gallery_images/poster_anima-1100.webp",
+          "bytes": 296250,
+          "sha256": "eb8c7492f8b45100ea3e885d9d0a3a8d5b1fa8f878e98598a27fc997a6bf4307"
+        },
+        {
+          "width": 1800,
+          "height": 2357,
+          "src": "/assets/images/optimized/gallery_images/poster_anima-1800.webp",
+          "bytes": 621006,
+          "sha256": "16b3c2565073aa88a664d2c82e06354039e8d4f905d9ca81b3a40a63c19e5907"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_fiona_and_friends.png": {
+      "width": 4567,
+      "height": 4285,
+      "sourceBytes": 40774291,
+      "sourceSha256": "b113f5648add17c73259838d1c5b44178bfdb482347869c8deda594cd047659c",
+      "fallback": "/assets/images/optimized/gallery_images/poster_fiona_and_friends-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 516,
+          "src": "/assets/images/optimized/gallery_images/poster_fiona_and_friends-550.webp",
+          "bytes": 88526,
+          "sha256": "7508c5482f206917f7e666a3c8459c885dba4728fd0e62802bf54a02c7860231"
+        },
+        {
+          "width": 1100,
+          "height": 1032,
+          "src": "/assets/images/optimized/gallery_images/poster_fiona_and_friends-1100.webp",
+          "bytes": 330424,
+          "sha256": "14753b5452673ecf359362e07406ebba66afce3152ef64cc39e7fc656250f5cf"
+        },
+        {
+          "width": 1800,
+          "height": 1689,
+          "src": "/assets/images/optimized/gallery_images/poster_fiona_and_friends-1800.webp",
+          "bytes": 882752,
+          "sha256": "a3da01fdddfcf6ea14665416ba071ec9798b8bc7767a32f5efa92a5d149c854d"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_gun_control.png": {
+      "width": 1660,
+      "height": 2160,
+      "sourceBytes": 1805142,
+      "sourceSha256": "a41b114ef1c9b7fd9dfa252259c0d4dff7ae20e80826392f6e0406fad35685bd",
+      "fallback": "/assets/images/optimized/gallery_images/poster_gun_control-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 716,
+          "src": "/assets/images/optimized/gallery_images/poster_gun_control-550.webp",
+          "bytes": 54108,
+          "sha256": "93ea65fa7ce00d71582a5bfabf79f7a9f59e3a5bfc9aec8f0a9263e8a1bddc6f"
+        },
+        {
+          "width": 1100,
+          "height": 1431,
+          "src": "/assets/images/optimized/gallery_images/poster_gun_control-1100.webp",
+          "bytes": 123282,
+          "sha256": "93eb5226bf153cca220e9c661fabb3e628bd83b34ebd2a6d6601b11de8ce9ee7"
+        },
+        {
+          "width": 1660,
+          "height": 2160,
+          "src": "/assets/images/optimized/gallery_images/poster_gun_control-1660.webp",
+          "bytes": 194554,
+          "sha256": "856d63da0ebb0532a558cd72abde0da78f8a5a38a6cb7f52071b3f749aca44db"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_infographic.png": {
+      "width": 3800,
+      "height": 4643,
+      "sourceBytes": 14649137,
+      "sourceSha256": "4a2730bb43a7f7db4cc3e506647a7135c82467c42fa7cb8f448484acee57d9b1",
+      "fallback": "/assets/images/optimized/gallery_images/poster_infographic-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 672,
+          "src": "/assets/images/optimized/gallery_images/poster_infographic-550.webp",
+          "bytes": 80234,
+          "sha256": "ae6a8398347db87216b37002d0969bf8c0de379b7235b48ecae99cf29eab15ec"
+        },
+        {
+          "width": 1100,
+          "height": 1344,
+          "src": "/assets/images/optimized/gallery_images/poster_infographic-1100.webp",
+          "bytes": 203218,
+          "sha256": "9c6c6b09910688c5597fef905d858cc420a944d26b7e35c2b79ca9a3ce10a033"
+        },
+        {
+          "width": 1800,
+          "height": 2199,
+          "src": "/assets/images/optimized/gallery_images/poster_infographic-1800.webp",
+          "bytes": 375134,
+          "sha256": "8105a55d5a368e1f09b6025e4eb7c94b9e7e3fb08bdf8c79e6b6369ca490c002"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_jekyll_and_hyde_1.png": {
+      "width": 3000,
+      "height": 6000,
+      "sourceBytes": 18986946,
+      "sourceSha256": "cc61e251c2c23eb8c4265e47056a3db7820f61b3d92a0a0b6f889247380b6e20",
+      "fallback": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_1-550.webp",
+          "bytes": 88336,
+          "sha256": "c9322b5b5c2fa68576f3b3e6564952fa88c5d5896c6678b7dea2fde456ece57c"
+        },
+        {
+          "width": 1100,
+          "height": 2200,
+          "src": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_1-1100.webp",
+          "bytes": 234406,
+          "sha256": "1d5db10634a9aedd34c61000c5e35cc99589f3ee338f635419b34aa58bfb23c2"
+        },
+        {
+          "width": 1800,
+          "height": 3600,
+          "src": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_1-1800.webp",
+          "bytes": 445954,
+          "sha256": "9a769d8a800bdd8176af9869b7157a0d4f32a2004a5141fb3b54c9832250bef0"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_jekyll_and_hyde_2.png": {
+      "width": 3000,
+      "height": 6000,
+      "sourceBytes": 18993846,
+      "sourceSha256": "4a9904e3d3550eab3f61228fbc8c3cb3f73b0469a9de848af745e5af839d77cc",
+      "fallback": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 1100,
+          "src": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_2-550.webp",
+          "bytes": 86720,
+          "sha256": "1737697edfbc1a1c3bc6aada1de460f31b4bc0aca14161911afad975d3d9b20e"
+        },
+        {
+          "width": 1100,
+          "height": 2200,
+          "src": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_2-1100.webp",
+          "bytes": 233448,
+          "sha256": "5eb7578d323eeb6c3badbf5c46798d7accc30606598ceab860adc55c276f5f93"
+        },
+        {
+          "width": 1800,
+          "height": 3600,
+          "src": "/assets/images/optimized/gallery_images/poster_jekyll_and_hyde_2-1800.webp",
+          "bytes": 445436,
+          "sha256": "d5f07b59beb4920e02ab99b1c66750c4f21ac564dd13d8eae460185aefd524da"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_lighthouse.png": {
+      "width": 2393,
+      "height": 2383,
+      "sourceBytes": 1872082,
+      "sourceSha256": "0078aa42b0836664c311cd511537ee6b5354e828d96fc43b7a6c553217af9baf",
+      "fallback": "/assets/images/optimized/gallery_images/poster_lighthouse-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 548,
+          "src": "/assets/images/optimized/gallery_images/poster_lighthouse-550.webp",
+          "bytes": 53038,
+          "sha256": "9967f203fd307c8a89a823aca72b5c5f8f85df6212b64eb1fc4f7f3c3166225c"
+        },
+        {
+          "width": 1100,
+          "height": 1095,
+          "src": "/assets/images/optimized/gallery_images/poster_lighthouse-1100.webp",
+          "bytes": 165356,
+          "sha256": "0be983a2f5c3f99a3b4782224f2a6b770bbfc51a588dcb67e6f96c74d5301fcb"
+        },
+        {
+          "width": 1800,
+          "height": 1792,
+          "src": "/assets/images/optimized/gallery_images/poster_lighthouse-1800.webp",
+          "bytes": 311518,
+          "sha256": "821966b556aa86a42b9e7615bc2a226c5071f903451ef6110e9932611623458b"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_margarette.png": {
+      "width": 3856,
+      "height": 4647,
+      "sourceBytes": 30386427,
+      "sourceSha256": "97f3e64abe6f0e2755f21473dc40bc65588680c1058ee4d298189f3c741df357",
+      "fallback": "/assets/images/optimized/gallery_images/poster_margarette-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 663,
+          "src": "/assets/images/optimized/gallery_images/poster_margarette-550.webp",
+          "bytes": 74366,
+          "sha256": "f6e63703064416158698452790c08e34ac52eac46c671a43e51028a3ee4f58a3"
+        },
+        {
+          "width": 1100,
+          "height": 1326,
+          "src": "/assets/images/optimized/gallery_images/poster_margarette-1100.webp",
+          "bytes": 257196,
+          "sha256": "68f0414dadcfe7dbc49567ce73a0b2fa1da54fadb2b3e63bf3fdf09cbb726d53"
+        },
+        {
+          "width": 1800,
+          "height": 2169,
+          "src": "/assets/images/optimized/gallery_images/poster_margarette-1800.webp",
+          "bytes": 583830,
+          "sha256": "487284ab2b5db421387d0663e179bf21b17237b61a9f49fb82f72c2bbe1a45fd"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_moonage_daydream_1.png": {
+      "width": 6000,
+      "height": 4500,
+      "sourceBytes": 45153735,
+      "sourceSha256": "f14ebdad81e0cfbb1e0d95d4b09e5e79a51aa9a94c6d1a17f5dbabceb8ac86e5",
+      "fallback": "/assets/images/optimized/gallery_images/poster_moonage_daydream_1-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 413,
+          "src": "/assets/images/optimized/gallery_images/poster_moonage_daydream_1-550.webp",
+          "bytes": 43220,
+          "sha256": "5bd39858ac8c96f1e77f30346d5aa43893a1c02273684fda846d7f09ced6c098"
+        },
+        {
+          "width": 1100,
+          "height": 825,
+          "src": "/assets/images/optimized/gallery_images/poster_moonage_daydream_1-1100.webp",
+          "bytes": 133248,
+          "sha256": "8697e4893795acfee820a3bdebf6a46bedd101f5a71a6a1b821e353e72808a60"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "src": "/assets/images/optimized/gallery_images/poster_moonage_daydream_1-1800.webp",
+          "bytes": 318110,
+          "sha256": "dfee30cd7e72775ba23b844aefe00d3db7276eaf9fa3d3fc9bfa0fc43354c178"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_moonage_daydream_2.png": {
+      "width": 3056,
+      "height": 2466,
+      "sourceBytes": 9528897,
+      "sourceSha256": "bab33b4bab17e649a5fe66b28222d870168098dada66868aab332156fa7fa9ff",
+      "fallback": "/assets/images/optimized/gallery_images/poster_moonage_daydream_2-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 444,
+          "src": "/assets/images/optimized/gallery_images/poster_moonage_daydream_2-550.webp",
+          "bytes": 34798,
+          "sha256": "6bcfaeddb7bca051497f9e69e2d1da1a88be62e0cfa9f524b17ab75e1481d165"
+        },
+        {
+          "width": 1100,
+          "height": 888,
+          "src": "/assets/images/optimized/gallery_images/poster_moonage_daydream_2-1100.webp",
+          "bytes": 110504,
+          "sha256": "85d0f239aae5ee224a0f952621f06536f7697821f736f14154f304438ff73f67"
+        },
+        {
+          "width": 1800,
+          "height": 1452,
+          "src": "/assets/images/optimized/gallery_images/poster_moonage_daydream_2-1800.webp",
+          "bytes": 228064,
+          "sha256": "5a7cd56cb9e14c76c71c60212a957f5b7b21fd5d8e75bcfefe90fc9362744cd3"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_sarah_and_friends.png": {
+      "width": 6000,
+      "height": 7000,
+      "sourceBytes": 44341436,
+      "sourceSha256": "723fc2901db703178fe17f9731bf6fa2a6f2e9ac581bbe75f939628cd5aa0731",
+      "fallback": "/assets/images/optimized/gallery_images/poster_sarah_and_friends-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 642,
+          "src": "/assets/images/optimized/gallery_images/poster_sarah_and_friends-550.webp",
+          "bytes": 94414,
+          "sha256": "0e5b869d2252e34326e68c3adf2a5820c6f1a479c27b5b3c0146ac280f7ec4ae"
+        },
+        {
+          "width": 1100,
+          "height": 1283,
+          "src": "/assets/images/optimized/gallery_images/poster_sarah_and_friends-1100.webp",
+          "bytes": 286788,
+          "sha256": "740f78e31d052ec9b746ccb29e2426d89f95b9984839a96979ba769f932616d7"
+        },
+        {
+          "width": 1800,
+          "height": 2100,
+          "src": "/assets/images/optimized/gallery_images/poster_sarah_and_friends-1800.webp",
+          "bytes": 584964,
+          "sha256": "6c9d4a028ce658ebe7ef858fd5f06a12d4f0d49c08f16840223e8f6303514e22"
+        }
+      ]
+    },
+    "/assets/images/gallery_images/poster_wotg_2023.png": {
+      "width": 5027,
+      "height": 4200,
+      "sourceBytes": 20836049,
+      "sourceSha256": "759d09d7687995852fc69c6c7b39158ca533b260c9127e5a5805c852cdb9a9ad",
+      "fallback": "/assets/images/optimized/gallery_images/poster_wotg_2023-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 460,
+          "src": "/assets/images/optimized/gallery_images/poster_wotg_2023-550.webp",
+          "bytes": 44178,
+          "sha256": "d2a6586b655667f76728f80de2a356385fc75d2d79da4807eca6c51a70c6a637"
+        },
+        {
+          "width": 1100,
+          "height": 919,
+          "src": "/assets/images/optimized/gallery_images/poster_wotg_2023-1100.webp",
+          "bytes": 112396,
+          "sha256": "0ccd4d43d879edd45c060307289cd7b82e7b6590635150a344c0c3d126014f40"
+        },
+        {
+          "width": 1800,
+          "height": 1504,
+          "src": "/assets/images/optimized/gallery_images/poster_wotg_2023-1800.webp",
+          "bytes": 211242,
+          "sha256": "712ba137707477861a0570ba103e51640140d4ab7d9f6550ecff496942f1cb3e"
+        }
+      ]
+    },
+    "/assets/images/margarette_images/margarette_poster.png": {
+      "width": 4044,
+      "height": 4746,
+      "sourceBytes": 30717344,
+      "sourceSha256": "e7106822b5d8b43c3f2d356508662f3cd9c9787a9b75f3ed74758afa81720180",
+      "fallback": "/assets/images/optimized/margarette_images/margarette_poster-1100.webp",
+      "variants": [
+        {
+          "width": 550,
+          "height": 645,
+          "src": "/assets/images/optimized/margarette_images/margarette_poster-550.webp",
+          "bytes": 69400,
+          "sha256": "53d88b9623b89cb3d2f87ff88d4680f7c1b1551c47ec92deb2434fde21ad00a2"
+        },
+        {
+          "width": 1100,
+          "height": 1291,
+          "src": "/assets/images/optimized/margarette_images/margarette_poster-1100.webp",
+          "bytes": 240598,
+          "sha256": "7d2d913a9d1b3f191f747aea2cf23d10cdd4752de6e1c94652b329acd798cbc9"
+        },
+        {
+          "width": 1800,
+          "height": 2112,
+          "src": "/assets/images/optimized/margarette_images/margarette_poster-1800.webp",
+          "bytes": 542418,
+          "sha256": "e07b586e4af4232645f8204e01feeb7064c3f4f059f338d85c949639f9e9d7a8"
+        }
+      ]
+    },
+    "/assets/images/website_images/anima_symbol.png": {
+      "width": 4640,
+      "height": 4640,
+      "sourceBytes": 14441158,
+      "sourceSha256": "b46180a4b6f073357db30571f5039496e304b720e34872aa55bf2d507e81bd10",
+      "fallback": "/assets/images/optimized/website_images/anima_symbol-640.webp",
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "src": "/assets/images/optimized/website_images/anima_symbol-320.webp",
+          "bytes": 23364,
+          "sha256": "2975766c7a7ae2a1f1ac3fa51d7a7c03b40d3c034d9f8851b4b4099048f971e7"
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "src": "/assets/images/optimized/website_images/anima_symbol-640.webp",
+          "bytes": 61878,
+          "sha256": "3aea95a015f2429de7e5a1de2e84b579008b032d66e140628f982b553a374e03"
+        }
+      ]
+    },
+    "/assets/images/website_images/hugo_profile_image.png": {
+      "width": 1952,
+      "height": 2430,
+      "sourceBytes": 8604351,
+      "sourceSha256": "5231b11d8f0d65718cadbe8b54e794a42b0740962e15082a124d2884ada35a09",
+      "fallback": "/assets/images/optimized/website_images/hugo_profile_image-1440.webp",
+      "variants": [
+        {
+          "width": 480,
+          "height": 598,
+          "src": "/assets/images/optimized/website_images/hugo_profile_image-480.webp",
+          "bytes": 68392,
+          "sha256": "1eda744b16f3d49cf8467cb1881fe4e89686a435d487eaf1df0ba11e48c3815e"
+        },
+        {
+          "width": 960,
+          "height": 1195,
+          "src": "/assets/images/optimized/website_images/hugo_profile_image-960.webp",
+          "bytes": 240304,
+          "sha256": "233056bc9e0699286617fecef7c7aeb0420adc562204a4c913c51f19922e458e"
+        },
+        {
+          "width": 1440,
+          "height": 1793,
+          "src": "/assets/images/optimized/website_images/hugo_profile_image-1440.webp",
+          "bytes": 470842,
+          "sha256": "9eded269b9267342ff6cd6afd97da876e7ff27b7d805f3393fa0929632df08ad"
+        }
+      ]
+    },
+    "/assets/images/website_images/marge_symbol.png": {
+      "width": 4640,
+      "height": 4640,
+      "sourceBytes": 4187614,
+      "sourceSha256": "9a39c6116ee4ff00014434285daf782168580f894a366fa693c8133fa565affb",
+      "fallback": "/assets/images/optimized/website_images/marge_symbol-640.webp",
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "src": "/assets/images/optimized/website_images/marge_symbol-320.webp",
+          "bytes": 13092,
+          "sha256": "214f719b79aed4e2473ba7b2a423d294cce07acd0befdec81dbda24f6bada56c"
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "src": "/assets/images/optimized/website_images/marge_symbol-640.webp",
+          "bytes": 28642,
+          "sha256": "c4896add65f5698e61e48bcd55bae2eb93f5979136e3ee3ba4193494d71781bf"
+        }
+      ]
+    },
+    "/assets/images/website_images/nav_bar_home.png": {
+      "width": 4640,
+      "height": 4640,
+      "sourceBytes": 15692998,
+      "sourceSha256": "c8a1de430e9ba83b2b85ebf89b124539ecc2b553b648e4844c4ba3ea9d629856",
+      "fallback": "/assets/images/optimized/website_images/nav_bar_home-128.webp",
+      "variants": [
+        {
+          "width": 64,
+          "height": 64,
+          "src": "/assets/images/optimized/website_images/nav_bar_home-64.webp",
+          "bytes": 2826,
+          "sha256": "b6f21c1e7166306d9f987f13b2b3a091130dc7cec87a45b34de538a982c5cb80"
+        },
+        {
+          "width": 128,
+          "height": 128,
+          "src": "/assets/images/optimized/website_images/nav_bar_home-128.webp",
+          "bytes": 7802,
+          "sha256": "89fc0ad10d09575671876ba4d1b51d1bcdc85153e4a500a47d551d8c6714eee9"
+        }
+      ]
+    },
+    "/assets/images/website_images/wotg_symbol.png": {
+      "width": 4640,
+      "height": 4640,
+      "sourceBytes": 5643809,
+      "sourceSha256": "b442c11cbaff8403892a3a1d08238e72ff6c9b56ac95e51f331d9367f41f7a54",
+      "fallback": "/assets/images/optimized/website_images/wotg_symbol-640.webp",
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "src": "/assets/images/optimized/website_images/wotg_symbol-320.webp",
+          "bytes": 19304,
+          "sha256": "464be011f37012995fbb609f3c518da122ff3fa9ef0405e0b73fe3721bf98458"
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "src": "/assets/images/optimized/website_images/wotg_symbol-640.webp",
+          "bytes": 45724,
+          "sha256": "ae6a0cf5959b93a978337780d615c62ee922d64126321ea5a8919764d6fefc85"
+        }
+      ]
+    }
+  }
+}

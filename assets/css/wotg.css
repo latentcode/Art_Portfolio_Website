@@ -3,7 +3,7 @@
 .wotg_hero{text-align:center}
 .wotg_hero .eyebrow{color:var(--blood-light);font-size:12px;font-weight:600;letter-spacing:.18em;text-transform:uppercase}
 .wotg_hero h1{margin:12px 0 42px;color:#f7e8e7;font-size:clamp(58px,9vw,104px)}
-.wotg_hero img{display:block;width:min(100%,900px);max-height:680px;margin:auto;object-fit:contain;filter:drop-shadow(0 28px 80px rgba(0,0,0,.45))}
+.wotg_hero img,.wotg_hero video{display:block;width:min(100%,900px);max-height:680px;margin:auto;object-fit:contain;filter:drop-shadow(0 28px 80px rgba(0,0,0,.45))}
 .wotg_content{max-width:900px;margin:clamp(70px,10vw,130px) auto 0}
 .wotg_content section{padding:clamp(34px,6vw,62px) 0;border-top:1px solid rgba(236,146,151,.2)}
 .wotg_content h2{margin-bottom:20px;color:var(--blood-light);font-size:clamp(35px,5vw,52px)}
@@ -20,7 +20,7 @@
 
 @property --loop-progress{syntax:"<angle>";initial-value:0deg;inherits:false}
 .wotg_visual{position:relative;width:min(100%,900px);margin:auto}
-.wotg_visual>img{width:100%;margin:0}
+.wotg_visual>img,.wotg_visual>video{width:100%;margin:0}
 .loop_indicator{position:absolute;right:18px;bottom:18px;width:36px;height:36px;border-radius:50%;background:rgba(19,13,15,.56);box-shadow:0 3px 14px rgba(0,0,0,.38);backdrop-filter:blur(5px)}
 .loop_indicator::before,.loop_indicator::after{position:absolute;border-radius:50%;content:""}
 .loop_indicator::before{inset:6px;background:conic-gradient(var(--blood-light) var(--loop-progress),rgba(247,232,231,.16) 0);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 2px),#000 0);mask:radial-gradient(farthest-side,transparent calc(100% - 2px),#000 0);animation:wotg-loop-progress 31.2s linear infinite}

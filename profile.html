@@ -5,7 +5,7 @@ css:
   - /assets/css/profile.css
 ---
 <section class="profile_layout">
-<figure class="profile_portrait"><img src="/assets/images/website_images/hugo_profile_image.png" alt="Portrait of Hugo Waterfall"></figure>
+<figure class="profile_portrait">{% include responsive-image.html src="/assets/images/website_images/hugo_profile_image.png" alt="Portrait of Hugo Waterfall" sizes="(max-width: 820px) calc(100vw - 40px), 600px" loading="eager" fetchpriority="high" %}</figure>
 <div class="profile_copy">
 <p class="eyebrow">Artist · Developer · Montreal</p><h1>Hugo Waterfall</h1>
 <div class="profile_bio">

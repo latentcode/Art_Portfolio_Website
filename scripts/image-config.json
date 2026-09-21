@@ -1,0 +1,60 @@
+{
+  "sourceRoot": "assets/images",
+  "outputRoot": "assets/images/optimized",
+  "manifest": "_data/image_manifest.json",
+  "widths": [550, 1100, 1800],
+  "quality": 82,
+  "qualitySensitiveQuality": 88,
+  "qualitySensitive": [
+    "/assets/images/gallery_images/compsci_journal.png",
+    "/assets/images/gallery_images/concept_wotg_characters.png",
+    "/assets/images/gallery_images/poster_infographic.png",
+    "/assets/images/gallery_images/poster_gun_control.png"
+  ],
+  "widthOverrides": {
+    "/assets/images/website_images/nav_bar_home.png": [64, 128],
+    "/assets/images/website_images/marge_symbol.png": [320, 640],
+    "/assets/images/website_images/anima_symbol.png": [320, 640],
+    "/assets/images/website_images/wotg_symbol.png": [320, 640],
+    "/assets/images/website_images/hugo_profile_image.png": [480, 960, 1440]
+  },
+  "eagerByFile": {
+    "_layouts/base.html": [
+      "/assets/images/website_images/nav_bar_home.png"
+    ],
+    "gallery.html": [
+      "/assets/images/gallery_images/portrait_v.png"
+    ],
+    "projects.html": [
+      "/assets/images/website_images/marge_symbol.png",
+      "/assets/images/website_images/anima_symbol.png",
+      "/assets/images/website_images/wotg_symbol.png"
+    ],
+    "profile.html": [
+      "/assets/images/website_images/hugo_profile_image.png"
+    ],
+    "margarette.html": [
+      "/assets/images/margarette_images/margarette_poster.png"
+    ],
+    "anima.html": [
+      "/assets/images/anima_images/anima_banner_v1.png",
+      "/assets/images/anima_images/anima_banner_v2.png"
+    ]
+  },
+  "highPriorityByFile": {
+    "gallery.html": "/assets/images/gallery_images/portrait_v.png",
+    "projects.html": "/assets/images/website_images/marge_symbol.png",
+    "profile.html": "/assets/images/website_images/hugo_profile_image.png",
+    "margarette.html": "/assets/images/margarette_images/margarette_poster.png",
+    "anima.html": "/assets/images/anima_images/anima_banner_v1.png"
+  },
+  "compactPatterns": [
+    "/assets/images/gallery_images/3D_"
+  ],
+  "wideImages": [
+    "/assets/images/gallery_images/concept_wotg_characters.png",
+    "/assets/images/gallery_images/compsci_journal.png",
+    "/assets/images/gallery_images/banner_anima.png",
+    "/assets/images/gallery_images/poster_wotg_2023.png"
+  ]
+}
