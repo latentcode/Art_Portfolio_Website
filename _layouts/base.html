@@ -22,7 +22,7 @@
                 <li><a href="gallery.html"{% if page.url contains 'gallery' %} aria-current="page"{% endif %}>Gallery</a></li>
                 <li><a href="margarette.html"{% if page.url contains 'margarette' %} aria-current="page"{% endif %}>Margarette</a></li>
                 <li><a href="wotg.html"{% if page.url contains 'wotg' %} aria-current="page"{% endif %}>Womb of the Gods</a></li>
-                <li class="icon_wrap"><a href="profile.html" aria-label="About Hugo"{% if page.url contains 'profile' %} aria-current="page"{% endif %}><img src="/assets/images/website_images/nav_bar_home.png" alt=""></a></li>
+                <li class="icon_wrap"><a href="profile.html" aria-label="About Hugo"{% if page.url contains 'profile' %} aria-current="page"{% endif %}>{% include responsive-image.html src="/assets/images/website_images/nav_bar_home.png" alt="" sizes="64px" loading="eager" %}</a></li>
             </ul>
         </nav>
     </header>

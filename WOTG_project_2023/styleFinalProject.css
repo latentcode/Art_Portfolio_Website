@@ -1,7 +1,7 @@
 body {
 
     font-size: 22px;
-    background-image: url("images/WOTGBackgroundMountain.jpg");
+    background-image: url("/assets/images/optimized/WOTG_project_2023/images/WOTGBackgroundMountain-1800.webp") /* source: images/WOTGBackgroundMountain.jpg */;
     background-size: cover;
     background-attachment: fixed;
 
